@@ -1,0 +1,1322 @@
+Order_Year,Order_Month,region,category,subcategory,Sales,Quantity,Profit,Discount
+2016,11,South,Furniture,Bookcases,891.44,9,61.25,0.4
+2016,11,South,Furniture,Chairs,1122.59,8,243.96,0.2
+2016,6,West,"Office Supplies",Labels,116.42,22,55.349999999999994,0
+2017,4,South,"Office Supplies",Paper,267.19,6,93.50999999999999,0.4
+2016,12,West,"Office Supplies",Binders,1979.07,91,600.4300000000001,5.900000000000002
+2016,12,Central,"Office Supplies",Art,46.21,15,9.77,0.4
+2016,12,Central,"Office Supplies",Appliances,220.20999999999998,16,19.39,1.7000000000000002
+2017,7,East,Furniture,Chairs,1098.01,14,98.82,0.7999999999999999
+2016,1,West,"Office Supplies",Binders,79.87,6,27.88,0.6000000000000001
+2016,1,West,Technology,Accessories,510.5,10,144.04,0
+2017,10,Central,"Office Supplies",Paper,231.98000000000002,14,92.66,1
+2016,12,Central,Technology,Phones,3289.0700000000006,43,513.3100000000001,0.8
+2016,12,Central,Furniture,Furnishings,333.43,23,-104.81000000000002,1.2
+2017,9,Central,Technology,Phones,3269.63,23,471.03,1
+2016,7,West,"Office Supplies",Storage,1157.16,22,-11.769999999999996,0.8
+2017,9,South,"Office Supplies",Storage,1725.48,37,16.520000000000007,1
+2016,3,Central,Technology,Accessories,1403.1100000000001,19,278.49,0.4
+2016,3,Central,"Office Supplies",Binders,183.24,29,12.760000000000012,4
+2016,6,East,Technology,Accessories,475.9000000000001,15,99.03999999999999,0
+2016,6,East,Technology,Phones,656.8100000000001,12,178.91000000000003,0
+2016,12,East,"Office Supplies",Fasteners,57.6,21,24.79,0.2
+2016,12,East,Technology,Phones,3675.75,24,234.37,0.4
+2016,6,East,"Office Supplies",Storage,3038.32,48,454.15,0.6000000000000001
+2016,6,East,"Office Supplies",Paper,430.8999999999999,29,198.04999999999995,0.4
+2016,6,East,Furniture,Chairs,863.4200000000001,10,9.740000000000002,0.4
+2016,6,East,"Office Supplies",Binders,423.90999999999997,37,69.16,2.8999999999999995
+2016,6,East,"Office Supplies",Art,37.379999999999995,11,13.09,0
+2016,6,South,"Office Supplies",Paper,148.78,7,70.05,0
+2016,9,East,"Office Supplies",Binders,7490.139999999999,71,1303.74,6.700000000000001
+2017,9,Central,"Office Supplies",Paper,495.31,56,210.91,1.7999999999999998
+2017,12,Central,"Office Supplies",Binders,2188.9,70,-2919.9899999999993,5.6
+2017,12,Central,"Office Supplies",Storage,1718.77,19,109.23000000000002,0.6000000000000001
+2016,6,South,"Office Supplies",Appliances,208.16,1,56.2,0
+2016,6,South,"Office Supplies",Binders,132.48,13,17.790000000000003,0.7
+2017,11,Central,"Office Supplies",Storage,1698.84,34,-58.66,1.2
+2017,5,South,Furniture,Chairs,3627.23,13,23.720000000000002,0.6000000000000001
+2017,10,Central,Technology,Accessories,957.22,11,125.94000000000001,1
+2017,10,Central,"Office Supplies",Labels,6.16,2,2.95,0
+2016,4,Central,"Office Supplies",Storage,2069.94,19,32.239999999999995,1
+2016,9,West,"Office Supplies",Art,171.95,38,56.36,0.4
+2016,9,West,Technology,Phones,3562.76,26,322.38000000000005,1.5999999999999999
+2016,9,West,"Office Supplies",Paper,884.49,60,422.49,0.4
+2017,11,West,"Office Supplies",Binders,1896.1,94,579.46,6.500000000000003
+2017,11,East,Furniture,Furnishings,3630.54,73,699.73,1.2
+2017,6,West,"Office Supplies",Binders,1412.06,23,400.34,1.7
+2016,9,Central,"Office Supplies",Appliances,988.4399999999999,17,-187.75,1.7000000000000002
+2016,8,Central,"Office Supplies",Paper,367.59,36,135.87,1.2
+2016,8,Central,Technology,Accessories,3019.4900000000002,39,254.72,0.8
+2016,8,Central,"Office Supplies",Binders,163.23000000000002,36,0.9899999999999949,4.8
+2016,12,Central,"Office Supplies",Paper,369.94,42,136.82000000000002,1.2
+2017,11,South,Technology,Accessories,3746.999999999999,40,831.21,1
+2017,11,South,Technology,Phones,2749.5699999999997,31,251.17000000000002,1.2
+2017,11,South,"Office Supplies",Art,168.44000000000003,33,23.87,1.2
+2017,12,East,Furniture,Furnishings,1102.56,35,213.91,1
+2016,11,Central,"Office Supplies",Art,212.18999999999994,35,55.31,1
+2016,11,Central,"Office Supplies",Binders,412.47999999999996,51,104.22999999999999,6.3999999999999995
+2016,6,East,Furniture,Furnishings,633.74,11,66.14,0.4
+2016,6,East,"Office Supplies",Envelopes,115.02,9,51.75,0
+2017,11,West,"Office Supplies",Storage,2988.42,62,204.89,0.4
+2016,11,West,Furniture,Chairs,5296.52,30,176.96,1.9999999999999998
+2016,11,West,Furniture,Furnishings,1175.79,42,339.25999999999993,0
+2017,2,East,Technology,Phones,360.01,13,49.8,0.8
+2017,2,East,"Office Supplies",Paper,289,17,109.9,0.4
+2017,2,East,"Office Supplies",Fasteners,21.45,9,6.97,0.2
+2016,10,West,"Office Supplies",Paper,433.7,37,205.14,0
+2016,10,West,"Office Supplies",Art,146.87,14,40.97,0.2
+2016,10,West,"Office Supplies",Fasteners,118.05000000000001,21,12.26,0
+2016,10,West,"Office Supplies",Binders,4956.660000000001,46,1695.3,4.1000000000000005
+2016,10,West,"Office Supplies",Supplies,65.88,6,18.44,0
+2016,10,West,Furniture,Furnishings,189.98,22,61.209999999999994,0.2
+2016,9,East,Furniture,Furnishings,869.6000000000001,33,266.27000000000004,0.8
+2017,9,West,"Office Supplies",Art,356.6600000000001,46,113.62999999999998,0.4
+2017,9,West,"Office Supplies",Envelopes,119.27,14,54.22,0.2
+2017,9,West,"Office Supplies",Paper,1252.37,85,593.8399999999999,0.6000000000000001
+2017,12,Central,"Office Supplies",Appliances,2591.52,28,-426.99,3.2
+2016,12,Central,Furniture,Chairs,6584.27,40,1268.77,0.8999999999999999
+2016,12,Central,"Office Supplies",Binders,10193.63,40,5060.2699999999995,2.4000000000000004
+2016,3,West,"Office Supplies",Appliances,312.82,10,58.03,0.2
+2016,3,West,Technology,Phones,5094.79,20,378.04999999999995,1.2
+2016,11,Central,"Office Supplies",Labels,129.13000000000002,11,52.69,0.6000000000000001
+2016,11,Central,Technology,Phones,2900.62,36,623.03,1
+2016,5,West,"Office Supplies",Paper,416.33,40,190.82000000000002,0.2
+2016,11,West,"Office Supplies",Envelopes,186.53,8,90.82000000000001,0
+2016,11,West,"Office Supplies",Binders,2793.8499999999995,104,940.0899999999997,6.300000000000003
+2017,4,Central,"Office Supplies",Appliances,97.26,4,-243.16,0.8
+2016,11,East,"Office Supplies",Binders,1340.63,63,-176.22999999999996,6.200000000000001
+2016,7,Central,"Office Supplies",Storage,2885.84,17,209.54000000000002,0.6000000000000001
+2016,7,Central,"Office Supplies",Paper,546.89,46,224.52999999999997,1
+2017,11,East,"Office Supplies",Storage,4422.180000000001,42,933.24,0.6000000000000001
+2017,7,East,"Office Supplies",Paper,615.3100000000001,42,277.26000000000005,1.4
+2017,6,East,"Office Supplies",Paper,759.16,36,356.18,0.6000000000000001
+2017,6,South,Furniture,Furnishings,134.9,17,27.43,1
+2017,12,West,Technology,Phones,2641.59,42,238.34999999999997,2.6
+2017,12,Central,Technology,Phones,2884.42,14,824.08,0.4
+2017,12,Central,"Office Supplies",Fasteners,55.839999999999996,12,17.439999999999998,0.2
+2016,10,West,"Office Supplies",Storage,1519.4,16,311.65,0
+2016,10,West,Technology,Phones,318.36,4,19.68,0.4
+2017,4,South,Furniture,Tables,1266.27,7,-280.28000000000003,0.9
+2017,4,South,"Office Supplies",Binders,2742.23,17,1226.4199999999998,3.5
+2017,4,South,Furniture,Furnishings,776.95,34,25.59,1
+2017,4,South,Technology,Accessories,1051.72,14,136.07999999999998,0.6000000000000001
+2017,11,West,"Office Supplies",Paper,914.58,72,416.3700000000001,0.6000000000000001
+2016,6,Central,"Office Supplies",Paper,1045.14,47,414.69,1.5999999999999999
+2016,6,Central,Furniture,Furnishings,545.32,25,-380.35,3.6
+2016,6,Central,Technology,Phones,1539.0500000000002,21,293.83,0.6000000000000001
+2016,6,Central,Furniture,Tables,870.1600000000001,8,52.719999999999985,0.5
+2016,6,Central,"Office Supplies",Art,23.96,13,5.6,0.6000000000000001
+2016,12,West,Furniture,Chairs,2627.4,27,70.49,1.5999999999999999
+2016,9,West,Technology,Accessories,3599.6099999999997,26,701.22,0
+2016,12,East,"Office Supplies",Storage,4387.17,42,833.46,0.4
+2016,12,East,"Office Supplies",Envelopes,471.61,11,214.41000000000003,0
+2017,12,East,Technology,Accessories,854.24,29,143.71,0.8
+2017,12,East,"Office Supplies",Storage,1434.31,23,213.74,0.4
+2017,12,East,"Office Supplies",Binders,1852.52,78,-9.129999999999995,8.200000000000001
+2017,6,Central,"Office Supplies",Appliances,2793.85,17,819.13,3.2
+2017,6,South,"Office Supplies",Art,199.63000000000002,12,56.74,0.2
+2016,1,East,"Office Supplies",Fasteners,7.56,6,0.3,0
+2017,12,East,"Office Supplies",Envelopes,173.11,11,62.01,0.4
+2017,12,West,"Office Supplies",Storage,4682.45,56,920.3500000000001,0.4
+2017,10,East,"Office Supplies",Paper,512.12,51,231.07,0.8
+2017,10,East,"Office Supplies",Storage,1300.5500000000002,24,110.85000000000001,0.8
+2017,10,East,"Office Supplies",Labels,99.13,21,41.99,0.4
+2016,12,South,"Office Supplies",Binders,338.23,19,-212.77,2.8
+2016,12,South,"Office Supplies",Appliances,2334.01,12,721.86,0.4
+2016,12,South,"Office Supplies",Supplies,1002.1800000000001,10,-192.51,0.2
+2016,11,East,"Office Supplies",Fasteners,83.67999999999999,33,19.07,1
+2016,11,East,"Office Supplies",Labels,42.64,15,16.45,0.4
+2016,11,East,Technology,Accessories,1071.14,33,99.41,1.2
+2016,11,East,Furniture,Bookcases,200.53,5,-35.93000000000001,0.7
+2016,10,East,"Office Supplies",Paper,637.74,26,300.22,0.2
+2016,10,East,Furniture,Furnishings,1289.69,19,141.75,0.2
+2016,10,East,"Office Supplies",Binders,430.25000000000006,16,196.39,0.4
+2017,11,Central,Furniture,Tables,1322.9,13,-167.22,1.1
+2017,4,South,"Office Supplies",Art,169.36,29,22.61,1.2
+2016,9,West,Furniture,Furnishings,321.24,29,90.63,0.8
+2016,9,West,Furniture,Chairs,3797.94,34,111.36999999999999,1.7999999999999998
+2016,9,West,"Office Supplies",Labels,98.34,21,45.98,0.2
+2016,4,West,"Office Supplies",Binders,449.69999999999993,43,116.74000000000001,3.4000000000000004
+2016,4,West,Technology,Accessories,99.99,1,34.99,0
+2017,11,South,Furniture,Furnishings,1304.22,25,321.09,1
+2016,8,East,Technology,Phones,952.9200000000001,21,-119.49000000000001,1.2000000000000002
+2016,8,East,"Office Supplies",Storage,1645.24,8,289.76,0.2
+2016,8,East,Furniture,Chairs,1505.67,13,-202.90999999999997,0.5
+2016,8,East,"Office Supplies",Labels,100.24,10,33.83,0.2
+2016,8,East,"Office Supplies",Binders,687.44,44,168.48,3.6000000000000005
+2016,4,East,Technology,Phones,1557.43,16,298.12,0.8
+2016,4,East,"Office Supplies",Binders,929.5199999999999,39,11.590000000000012,4.500000000000001
+2017,6,West,Technology,Phones,626.15,17,43.02,1.2
+2017,7,East,"Office Supplies",Art,423.22,39,136.45,0.2
+2016,9,East,Technology,Accessories,580.03,11,250.2,0
+2016,9,East,"Office Supplies",Paper,407.85999999999996,36,181.73000000000002,1
+2016,4,East,Furniture,Bookcases,388.7,6,-4.85,0.2
+2016,4,East,"Office Supplies",Envelopes,17.13,3,7,0.2
+2016,4,East,"Office Supplies",Art,605.16,45,163.44,0
+2016,4,East,"Office Supplies",Paper,730.21,28,272.96999999999997,0.6000000000000001
+2016,4,South,"Office Supplies",Paper,226.23000000000002,17,84.1,0.4
+2017,3,South,"Office Supplies",Appliances,1096.04,17,278.44000000000005,0.4
+2017,3,South,"Office Supplies",Labels,33.559999999999995,6,15.39,0.2
+2017,9,East,"Office Supplies",Labels,107.20999999999998,26,41.8,0.6000000000000001
+2017,9,East,Furniture,Chairs,8960.56,45,1362.35,1.8000000000000005
+2017,9,East,"Office Supplies",Art,220.64,37,56.660000000000004,0.8
+2017,9,East,Furniture,Furnishings,651.34,55,137.20999999999998,1.4
+2016,10,East,"Office Supplies",Supplies,7.36,2,0.14,0
+2016,10,East,"Office Supplies",Storage,397.98,18,89.56,0
+2016,10,East,Furniture,Bookcases,1164.9,5,283.5,0
+2017,5,Central,"Office Supplies",Paper,316.6700000000001,32,113.34000000000002,1.4
+2017,5,Central,"Office Supplies",Storage,2371.39,29,151.19,1.4
+2016,9,Central,"Office Supplies",Paper,325.05,31,126.04,1
+2017,8,East,Furniture,Tables,1802.95,9,-381.55,0.7
+2016,9,Central,"Office Supplies",Storage,1576.0900000000001,36,265.62,1
+2016,9,Central,Furniture,Bookcases,3551.66,15,-542.24,0.94
+2016,9,Central,Technology,Accessories,997.04,17,276.77,0.4
+2017,12,East,"Office Supplies",Appliances,2861.8800000000006,44,813.5500000000001,0.2
+2017,12,West,Technology,Accessories,1342.94,39,344.43,0.4
+2017,12,West,Technology,Copiers,4079.92,9,1442.97,0.4
+2017,12,West,"Office Supplies",Paper,1297.1399999999999,76,562.59,0.4
+2017,12,West,Furniture,Tables,4274.45,24,-20.03,0.9
+2017,12,West,"Office Supplies",Labels,99.83999999999999,20,48.7,0
+2017,12,West,Furniture,Bookcases,2091.22,34,-471.53,1.8499999999999999
+2017,12,West,Furniture,Chairs,3934.66,33,135.20000000000002,1.5999999999999999
+2017,11,West,Furniture,Chairs,5760.660000000001,33,-36.59999999999999,1.9999999999999998
+2017,6,West,"Office Supplies",Art,673.63,48,172.46999999999997,0.6000000000000001
+2016,4,West,Furniture,Chairs,4638.84,29,226.77999999999997,1.4
+2017,11,South,"Office Supplies",Paper,550.3000000000001,53,202.32999999999998,1.7999999999999998
+2017,3,West,"Office Supplies",Art,161.69,35,56.09,0
+2017,3,West,"Office Supplies",Envelopes,34.65,6,16.32,0
+2017,10,East,Furniture,Furnishings,1116.04,47,342.0499999999999,0.4
+2017,8,South,Furniture,Chairs,1290.04,6,272.91999999999996,0.2
+2017,11,Central,Furniture,Furnishings,641.9300000000001,25,-371.56,2.4
+2017,11,Central,"Office Supplies",Binders,2508.3199999999997,72,-2121.1000000000004,8.799999999999999
+2017,10,Central,"Office Supplies",Art,229.58,39,48.37,1.4
+2016,4,South,"Office Supplies",Binders,189.58,2,-145.35,0.7
+2016,4,South,Technology,Accessories,735.86,16,139.72,0.6000000000000001
+2016,4,South,"Office Supplies",Storage,267.49,11,-16.450000000000003,0.6000000000000001
+2016,6,Central,Technology,Machines,1007.97,3,43.19,0.3
+2017,1,East,Furniture,Chairs,1095.11,6,-61.07,0.4
+2016,9,Central,Furniture,Furnishings,1782.76,45,240.20000000000002,3
+2016,9,Central,Furniture,Chairs,2696.58,22,-227.88,1.2
+2016,9,Central,"Office Supplies",Labels,87.62,23,34.76,0.6000000000000001
+2017,3,Central,Furniture,Furnishings,188.93,9,-117.52000000000001,1.2
+2016,4,East,"Office Supplies",Storage,745.5,17,41.52,0.4
+2017,10,East,Furniture,Tables,1836.33,12,-294.09999999999997,1.3
+2016,12,Central,Technology,Accessories,308.5,13,42.47,0.4
+2016,9,Central,"Office Supplies",Envelopes,125.03999999999999,6,44.72,0.4
+2016,4,West,Furniture,Furnishings,191.7,20,50.21,0.4
+2016,4,West,Furniture,Tables,1272.63,6,-814.48,0.5
+2016,4,West,"Office Supplies",Supplies,214.17000000000002,5,-33.89,0.2
+2016,4,West,"Office Supplies",Appliances,222.17000000000002,7,53.239999999999995,0.4
+2017,3,Central,Furniture,Bookcases,1228.66,7,-66.32,0.64
+2016,7,West,Technology,Phones,1057.17,29,99.36999999999998,1.7999999999999998
+2017,6,West,"Office Supplies",Labels,112.20000000000002,12,46.87,0.2
+2017,6,West,Furniture,Bookcases,3540.1499999999996,22,233.28,0.6
+2016,5,West,Technology,Accessories,597.36,24,143.7,0.2
+2016,3,South,Furniture,Tables,189.88,3,-94.94,0.4
+2016,7,West,"Office Supplies",Binders,229.60999999999999,30,-5.270000000000005,3.6000000000000005
+2016,7,West,Furniture,Furnishings,659.4799999999999,40,220.79999999999998,0
+2016,7,West,Furniture,Chairs,3016.2100000000005,19,183.09,1.4
+2016,5,West,"Office Supplies",Binders,140.73,30,-41.349999999999994,3.8000000000000007
+2016,5,West,Furniture,Chairs,1286.26,8,-34.72999999999999,0.4
+2017,11,East,"Office Supplies",Binders,1638.2400000000002,72,467.5899999999999,5.500000000000002
+2017,11,Central,Technology,Accessories,730.4300000000001,27,113.57000000000002,0.8
+2016,10,East,"Office Supplies",Art,169.22,16,50.59,0.2
+2017,12,West,"Office Supplies",Art,305.21999999999997,44,81.72,0.2
+2017,1,West,Technology,Copiers,2999.95,5,1379.97,0
+2017,1,West,"Office Supplies",Storage,1933.1299999999999,34,146.31,0.2
+2017,1,West,"Office Supplies",Paper,238.14000000000001,18,109.28999999999999,0
+2017,1,Central,Furniture,Tables,1193.78,8,-195.71,0.8
+2016,5,West,Technology,Phones,734.87,12,55.10000000000001,0.8
+2017,10,South,Furniture,Chairs,717.8900000000001,4,51.900000000000006,0.2
+2017,10,South,Furniture,Furnishings,218.94,17,39.02,1.2
+2017,9,West,Furniture,Furnishings,1435.01,49,355.17,0.6000000000000001
+2016,5,South,Technology,Phones,2564.99,18,383.94,0.6000000000000001
+2016,5,South,"Office Supplies",Binders,673.64,47,145.91,7.000000000000001
+2017,9,Central,"Office Supplies",Binders,2545.78,64,-525.35,4.8
+2017,11,East,"Office Supplies",Paper,1280.37,69,570.18,1.4
+2017,9,South,Furniture,Furnishings,68.95,8,17.17,0.4
+2017,11,Central,"Office Supplies",Fasteners,77.34,12,34.089999999999996,0.4
+2017,6,West,"Office Supplies",Storage,2168.0599999999995,45,283.18999999999994,0.8
+2016,6,West,Furniture,Tables,4718.12,23,230.43,0.8
+2016,6,West,"Office Supplies",Paper,734.9200000000001,39,353.90999999999997,0
+2017,11,West,Furniture,Furnishings,552.7199999999999,40,160.13,0
+2017,10,West,"Office Supplies",Paper,773.8599999999999,29,330.44,0.6000000000000001
+2017,10,West,"Office Supplies",Binders,5779.46,72,2113.46,4.700000000000001
+2017,10,West,Furniture,Chairs,2836.3399999999997,28,-61.45,1.5999999999999999
+2017,12,East,"Office Supplies",Labels,112.05000000000001,18,51.18000000000001,0.2
+2017,12,East,"Office Supplies",Fasteners,87.94000000000001,32,34.15,0.4
+2017,12,East,Technology,Phones,2842.96,44,462.07000000000005,2
+2016,11,West,"Office Supplies",Art,307.35,26,86.94,0
+2017,7,Central,"Office Supplies",Storage,1401.3899999999999,19,156.12,0.6000000000000001
+2017,12,West,"Office Supplies",Appliances,423.42,12,130.92000000000002,0.2
+2017,12,West,"Office Supplies",Binders,1162.73,112,276.95,8.300000000000002
+2016,3,West,"Office Supplies",Paper,71.95,14,29.940000000000005,0.4
+2016,3,West,"Office Supplies",Binders,141.18,24,20.5,2.1999999999999997
+2016,7,East,"Office Supplies",Supplies,17.47,4,1.74,0.4
+2016,7,East,Technology,Phones,1385.29,16,166.63,1.2000000000000002
+2016,4,Central,Technology,Phones,1160.42,10,301.25,0.2
+2016,4,Central,"Office Supplies",Labels,15.71,4,5.69,0.2
+2016,9,East,Technology,Phones,1953,24,65.39,1.2000000000000002
+2017,11,East,Technology,Phones,8755.779999999999,79,1379.26,2.4
+2017,8,East,Furniture,Furnishings,255.51999999999998,13,85.94,0
+2017,8,East,"Office Supplies",Binders,5805.15,42,1995.32,2.1
+2017,8,East,Technology,Phones,1210.83,9,359.38,0
+2017,5,West,"Office Supplies",Appliances,647.01,17,186.01,0
+2016,12,West,"Office Supplies",Storage,4670.120000000001,48,623.1300000000001,0.2
+2016,12,West,Technology,Accessories,3795.3100000000004,53,1003.36,1
+2016,12,West,Technology,Phones,4989.77,40,461.83,2.1999999999999997
+2017,9,South,Technology,Accessories,360.34,18,83.92999999999999,0.4
+2017,9,South,"Office Supplies",Labels,251.69,8,93.08,0.2
+2016,8,West,"Office Supplies",Binders,140.07,33,1.269999999999996,2.4
+2016,8,West,"Office Supplies",Appliances,699.3000000000001,16,173.82000000000002,0.2
+2016,5,West,Furniture,Furnishings,1578.5299999999997,24,334.76000000000005,0
+2017,7,West,"Office Supplies",Storage,500.42,11,106.23,0
+2017,7,West,"Office Supplies",Labels,896.5799999999999,24,437.37,0
+2017,6,Central,Technology,Accessories,256.38,8,85.03,0
+2016,4,West,"Office Supplies",Fasteners,31.56,5,9.86,0.2
+2016,12,West,Furniture,Furnishings,1775.3400000000001,59,509.38999999999993,0.4
+2017,6,East,Technology,Accessories,1260.57,36,234.06,0.6000000000000001
+2016,8,East,"Office Supplies",Appliances,1509.67,16,389,0.2
+2016,8,East,"Office Supplies",Envelopes,134.28,2,45.32,0.2
+2016,9,Central,"Office Supplies",Binders,664.76,49,-715.46,5.6
+2016,3,East,"Office Supplies",Storage,1512.7199999999998,15,-39.50999999999999,0.4
+2016,11,South,"Office Supplies",Fasteners,30.740000000000002,7,14.86,0
+2017,6,Central,"Office Supplies",Supplies,34.94,4,2.9,0.4
+2017,6,Central,"Office Supplies",Paper,369.71,26,126.21,1.2
+2017,6,Central,Technology,Phones,2593.9,20,365.37999999999994,1
+2017,6,Central,Furniture,Furnishings,603.8200000000002,19,-17.410000000000007,2.4
+2017,6,Central,Furniture,Tables,873.71,7,-196.35999999999999,1.1
+2017,6,Central,"Office Supplies",Art,44.12,12,9.620000000000001,0.2
+2017,12,Central,"Office Supplies",Paper,866.3,66,344.63,2.1999999999999997
+2017,12,Central,Technology,Accessories,1622.9499999999998,40,440.97,0.6000000000000001
+2017,3,Central,"Office Supplies",Appliances,123.46,16,-324.78999999999996,2.4000000000000004
+2017,3,Central,Technology,Accessories,311.74,11,56.290000000000006,0.6000000000000001
+2017,3,Central,"Office Supplies",Binders,1265.56,39,106.66999999999996,4
+2016,11,East,"Office Supplies",Storage,1176.29,35,160.63,0.4
+2017,11,South,Technology,Machines,7999.98,4,-3839.99,0.5
+2017,11,South,"Office Supplies",Appliances,2292.81,17,253.88,1
+2017,12,East,Furniture,Bookcases,1024.06,10,74.91,0.6000000000000001
+2017,9,South,"Office Supplies",Envelopes,24.44,4,8.86,0.2
+2017,5,East,"Office Supplies",Appliances,406.46999999999997,9,146,0
+2017,5,East,Technology,Phones,847.95,5,224.3,0
+2017,5,East,Technology,Accessories,633.38,22,180.13,0.2
+2016,2,West,"Office Supplies",Paper,323.21999999999997,9,155.25,0
+2016,12,Central,Furniture,Tables,2234.9,5,336.15999999999997,0
+2016,12,Central,"Office Supplies",Storage,323.23,5,86.72,0
+2016,7,South,"Office Supplies",Supplies,45.58,7,5.12,0.2
+2017,9,Central,"Office Supplies",Envelopes,191.23000000000002,15,64.91,0.8
+2016,12,East,"Office Supplies",Paper,375.1,28,175.22000000000003,0.2
+2016,12,East,Furniture,Tables,1407.79,10,-468.30000000000007,1.5000000000000002
+2016,12,East,Furniture,Chairs,5738.9,29,679.23,0.9
+2016,12,East,"Office Supplies",Labels,143.77,11,65.73,0.2
+2017,1,West,Technology,Accessories,701.57,16,115.76999999999998,0.4
+2017,1,West,"Office Supplies",Binders,2589.61,40,865.7,2.0999999999999996
+2017,1,West,Furniture,Bookcases,84.98,1,18.69,0
+2016,8,Central,"Office Supplies",Supplies,236.89000000000001,7,-45.69,0.4
+2016,3,Central,Technology,Phones,1412.6100000000001,18,133.56,0.8
+2017,10,Central,"Office Supplies",Binders,2045.49,35,701.25,4.8
+2017,10,Central,Furniture,Furnishings,184.4,16,41.480000000000004,1.2
+2016,4,West,Technology,Copiers,1199.97,3,374.99,0.2
+2016,9,South,Furniture,Tables,2508.88,10,-2.8899999999999864,0.8500000000000001
+2017,7,East,"Office Supplies",Binders,1042.72,27,347.94,2
+2017,11,South,"Office Supplies",Labels,17.310000000000002,5,7.41,0.2
+2016,5,South,Furniture,Chairs,1219.28,19,167.04000000000002,0.4
+2017,1,Central,"Office Supplies",Binders,6393.66,38,1405.4299999999996,3.2
+2017,1,Central,Technology,Phones,2442.9500000000003,12,352.98,0.2
+2017,1,Central,"Office Supplies",Art,311.92,19,75.66999999999999,0.8
+2017,1,Central,Furniture,Furnishings,209.87,17,-159.70999999999998,0.6
+2017,3,West,"Office Supplies",Binders,737.36,62,251.52,2.8000000000000003
+2017,2,West,Furniture,Furnishings,653.0500000000001,17,121.32000000000001,0.2
+2017,2,West,Technology,Phones,2397.53,31,215.19,1.5999999999999999
+2016,3,South,"Office Supplies",Paper,378.4,18,174.31,0
+2017,4,West,Furniture,Furnishings,709.1399999999999,34,215.95,0.2
+2017,5,West,Furniture,Furnishings,113.81,10,41.11,0.2
+2017,5,West,Technology,Accessories,2349.72,34,875.0999999999999,0.4
+2017,6,East,"Office Supplies",Labels,9.82,2,4.81,0
+2017,8,Central,"Office Supplies",Fasteners,35,7,16.8,0
+2017,8,Central,"Office Supplies",Supplies,64.6,9,15.629999999999999,0.2
+2017,8,Central,"Office Supplies",Envelopes,85.36,8,42.519999999999996,0
+2017,6,South,Furniture,Chairs,1273.8600000000001,8,129.28,0.4
+2017,6,South,"Office Supplies",Appliances,286.92999999999995,20,59.69,0.6000000000000001
+2017,6,South,Technology,Phones,3817.7699999999995,25,521.53,0.8
+2016,7,South,"Office Supplies",Art,138.43,12,32.59,0.2
+2016,7,South,"Office Supplies",Appliances,23.69,2,6.51,0.2
+2016,7,South,Technology,Machines,265.47,1,-111.49,0.5
+2016,11,West,"Office Supplies",Supplies,103.78999999999999,17,20.08,0.2
+2016,11,West,"Office Supplies",Labels,738.89,19,279.62,0.2
+2016,6,West,"Office Supplies",Art,20.84,9,5.88,0
+2016,5,South,"Office Supplies",Art,345.36,30,95.30999999999999,0.4
+2016,2,East,Furniture,Furnishings,259.77,20,114.80000000000001,0
+2016,2,East,"Office Supplies",Storage,539.31,6,89.72,0
+2017,4,East,"Office Supplies",Paper,390.21,28,173.32000000000002,0.8
+2017,4,East,"Office Supplies",Fasteners,15.08,7,5.26,0.2
+2016,1,South,Technology,Accessories,507.47,10,72.28,0.2
+2016,1,South,"Office Supplies",Art,52.85,5,6.54,0.4
+2016,1,South,Technology,Phones,167.96,4,16.04,0.4
+2016,9,East,"Office Supplies",Labels,105.68999999999998,21,44.94,0.4
+2017,8,South,"Office Supplies",Paper,473.51000000000005,25,169.83999999999997,1.2
+2016,1,East,Furniture,Furnishings,438.72,20,85.04000000000002,0.4
+2016,1,East,Technology,Accessories,812.08,12,230.77000000000004,0.2
+2017,11,East,Furniture,Chairs,3983.33,26,422.15,1.2000000000000002
+2016,10,Central,Furniture,Furnishings,400.10999999999996,44,-177.57,3
+2017,10,East,"Office Supplies",Binders,265.42,33,-43.360000000000014,2.7
+2017,6,East,"Office Supplies",Binders,466.79999999999995,39,92.09,3.6000000000000005
+2016,11,West,"Office Supplies",Storage,1030.96,19,260.8,0.2
+2016,10,Central,"Office Supplies",Envelopes,75.39,9,24.490000000000002,0.4
+2017,11,Central,"Office Supplies",Labels,67.96,17,26.770000000000003,0.6000000000000001
+2016,4,West,"Office Supplies",Paper,254.12,19,115.72999999999999,0.4
+2016,4,West,"Office Supplies",Storage,838.0999999999999,18,94.02999999999999,0.2
+2017,9,Central,Technology,Accessories,3810.13,53,1372.9400000000003,0.6000000000000001
+2017,9,Central,"Office Supplies",Storage,703.0300000000001,8,95.04,0.4
+2016,3,Central,"Office Supplies",Envelopes,185.95,6,62.29,0.4
+2016,3,Central,"Office Supplies",Storage,12.99,1,-0.81,0.2
+2017,4,East,"Office Supplies",Art,165.41,19,39.300000000000004,0.6000000000000001
+2016,6,East,"Office Supplies",Appliances,1237.83,14,266.04999999999995,0.4
+2017,11,West,Technology,Accessories,2189.81,75,629.8,0.6000000000000001
+2016,12,West,Furniture,Tables,9783.29,49,-510.01000000000016,3.2
+2017,11,East,Furniture,Tables,2662.14,21,-855.6500000000001,1.6
+2017,4,East,Furniture,Furnishings,254.59000000000003,17,52.940000000000005,0.8
+2017,12,Central,"Office Supplies",Art,222.46,33,49.11000000000001,1
+2017,12,Central,Furniture,Bookcases,538.77,6,29.8,0.32
+2017,11,South,"Office Supplies",Storage,2738.23,34,301.5,0.6000000000000001
+2017,5,West,Technology,Phones,2756.43,33,244.61,1.5999999999999999
+2017,5,West,"Office Supplies",Binders,348.80999999999995,28,104.55,2.4
+2016,9,West,"Office Supplies",Envelopes,38.74,5,18.6,0
+2017,4,East,"Office Supplies",Labels,29.13,8,14.26,0
+2017,4,East,"Office Supplies",Storage,4637.23,23,713.52,1
+2017,10,East,Technology,Phones,3655.6299999999997,41,588.8699999999999,2
+2017,7,West,"Office Supplies",Binders,228.02,28,68.61,2.8000000000000003
+2017,1,Central,Technology,Machines,3410.95,5,832.07,0.2
+2016,10,East,Furniture,Chairs,1519.7599999999998,25,159.91,0.5
+2017,9,Central,"Office Supplies",Labels,45.53,15,19.32,0.4
+2017,9,Central,Technology,Machines,336.51,3,44.86,0.4
+2017,5,East,Furniture,Furnishings,1001.1300000000001,28,224.82,0
+2017,5,East,"Office Supplies",Art,127.82000000000001,21,36.09,0.2
+2016,8,West,"Office Supplies",Fasteners,10.23,3,4.91,0
+2016,8,West,"Office Supplies",Paper,376.91999999999996,41,173.50000000000003,0.2
+2017,8,Central,Technology,Phones,1704.05,13,397.58000000000004,0.4
+2017,6,West,Furniture,Furnishings,336.82,11,110.28,0
+2016,1,East,"Office Supplies",Paper,238.95999999999998,22,103.31,0.4
+2016,1,East,Technology,Phones,357.93,8,37.17,0.8
+2016,11,East,"Office Supplies",Paper,662.6600000000001,42,276.96000000000004,1
+2016,4,Central,Furniture,Furnishings,308.22,14,-46.599999999999994,1.2
+2016,3,Central,Furniture,Tables,2137.98,16,-81.83999999999999,1.4
+2016,9,East,Furniture,Bookcases,1765.15,14,109.05000000000001,0.4
+2017,7,Central,"Office Supplies",Art,175.28,17,36.38,0.6000000000000001
+2017,7,Central,"Office Supplies",Appliances,768.28,19,81.34,0.8
+2017,10,Central,Furniture,Chairs,748,20,-98.71,0.8999999999999999
+2016,3,South,Technology,Phones,1363.96,5,85.24,0.2
+2016,3,South,Furniture,Furnishings,453.77000000000004,21,126.52000000000001,0.2
+2016,10,West,Furniture,Chairs,3571.85,26,181.18,1.4
+2017,9,Central,"Office Supplies",Supplies,1.74,1,-0.34,0.2
+2016,11,West,Technology,Accessories,3568.6800000000003,41,985.47,0.2
+2016,9,Central,"Office Supplies",Art,333.86,24,68.15,0.6000000000000001
+2017,9,West,"Office Supplies",Appliances,1476.87,26,394.7,0.4
+2017,9,West,"Office Supplies",Storage,1339.21,32,253.67000000000002,0.6000000000000001
+2017,9,West,"Office Supplies",Binders,5962.380000000001,94,1847.3799999999999,6.8000000000000025
+2016,3,East,Furniture,Tables,1080.5900000000001,10,-296.29,0.7
+2016,3,East,"Office Supplies",Paper,289.78,17,133.35999999999999,0.2
+2016,3,East,Technology,Machines,5349.030000000001,10,1757.25,0.7
+2016,8,West,Technology,Phones,2696.8700000000003,32,212.51000000000002,1.9999999999999998
+2016,8,West,"Office Supplies",Labels,3.15,1,1.51,0
+2017,1,South,"Office Supplies",Storage,348.2,7,30.46,0.2
+2017,1,South,"Office Supplies",Binders,116.79999999999998,32,-39.17999999999999,3.5
+2016,6,West,Furniture,Furnishings,30.87,6,10.52,0
+2016,6,West,Technology,Accessories,446.22,6,146.01000000000002,0
+2017,4,Central,"Office Supplies",Binders,770.13,46,149.55,5.6
+2016,11,Central,"Office Supplies",Storage,2302.69,38,71.75,1.2
+2016,11,Central,Furniture,Furnishings,463.9,33,-392.37,4.2
+2016,11,Central,"Office Supplies",Fasteners,62.7,15,22.74,0.4
+2016,11,Central,"Office Supplies",Envelopes,328.47999999999996,11,143.2,0.2
+2016,11,Central,"Office Supplies",Paper,556,28,241.90999999999997,1.2
+2016,7,West,"Office Supplies",Labels,116.06,13,54.44,0
+2016,4,South,Furniture,Tables,343.92,4,75.66,0
+2016,4,South,"Office Supplies",Envelopes,81.82,9,37.35,0
+2016,12,West,"Office Supplies",Paper,1149.4099999999999,75,539.8699999999999,0.2
+2016,6,East,"Office Supplies",Labels,221.95999999999998,33,98.99000000000001,0.4
+2016,12,South,"Office Supplies",Storage,1210.08,15,30.370000000000005,0.4
+2016,11,Central,"Office Supplies",Appliances,259.93,11,56.22,0.1
+2016,12,West,"Office Supplies",Art,205.99999999999997,46,55.16,0.4
+2017,6,Central,"Office Supplies",Binders,299.68,40,-334.32,5.6
+2017,12,East,"Office Supplies",Paper,618.9800000000001,37,295.09000000000003,0.4
+2016,8,East,"Office Supplies",Supplies,27.93,3,8.09,0
+2016,4,Central,Technology,Accessories,690.61,12,129.45,0.4
+2017,1,South,"Office Supplies",Envelopes,40.06999999999999,4,13.969999999999999,0.4
+2017,1,South,Technology,Phones,3059.83,14,772.06,0.4
+2017,2,West,"Office Supplies",Appliances,2126.21,20,597.78,0
+2017,2,West,Furniture,Chairs,1855.35,7,197.57,0.4
+2017,2,West,"Office Supplies",Paper,343.98,23,164.64999999999998,0
+2016,4,Central,Furniture,Chairs,1895.25,13,280.69,0.6
+2016,4,Central,"Office Supplies",Binders,1138.9099999999999,14,-1915.79,1.6
+2017,8,South,Technology,Phones,4675.81,19,348.16999999999996,0.6000000000000001
+2016,7,East,"Office Supplies",Storage,546.23,16,24.12,0.8
+2016,7,East,"Office Supplies",Binders,1429.44,29,-916.6399999999999,3.4000000000000004
+2016,7,East,"Office Supplies",Fasteners,43.68,16,20.21,0
+2016,7,East,"Office Supplies",Art,75.92999999999999,19,13.47,0.6000000000000001
+2016,7,East,Furniture,Bookcases,756.5799999999999,9,-56.35999999999999,0.7
+2017,9,East,"Office Supplies",Binders,990.8199999999999,58,-322.9,10.899999999999999
+2017,9,East,Technology,Accessories,3966.7000000000003,68,923.6199999999999,2.4
+2017,9,East,Technology,Phones,7960.120000000001,39,486.3399999999999,1.6
+2016,12,East,Technology,Accessories,592.0699999999999,12,130.56,0.4
+2016,12,East,"Office Supplies",Binders,4399.830000000001,75,1647.9199999999998,5.900000000000002
+2017,11,West,"Office Supplies",Envelopes,91.86,9,45.769999999999996,0
+2017,11,West,"Office Supplies",Art,139.33,37,42.31000000000001,0
+2016,5,East,Technology,Copiers,9239.949999999999,6,1189.98,0.8
+2016,10,South,Furniture,Furnishings,435.09000000000003,22,96.82,1
+2016,10,South,"Office Supplies",Binders,364.4,36,17.42,4.2
+2016,2,East,"Office Supplies",Binders,398.35,3,124.48,0.2
+2016,2,East,"Office Supplies",Fasteners,45.199999999999996,10,21.81,0
+2017,5,South,"Office Supplies",Envelopes,113.92,12,45.86,0.2
+2017,12,East,"Office Supplies",Art,122.93,36,33.760000000000005,1.2
+2017,12,East,Furniture,Chairs,3902.7,44,393.75,1.7
+2017,3,East,"Office Supplies",Art,143.85,19,43.900000000000006,0.2
+2017,3,East,Technology,Phones,3198.56,49,216.9,2
+2017,3,East,Furniture,Furnishings,245.29,17,57.529999999999994,0.8
+2016,12,South,Technology,Accessories,1056.58,24,292.68,0.6000000000000001
+2017,10,South,Technology,Phones,1102.24,7,126.04,0.6000000000000001
+2016,10,Central,Technology,Phones,843.0500000000001,14,327.74,0
+2017,6,South,"Office Supplies",Paper,246.98000000000002,27,95.8,0.8
+2016,4,Central,"Office Supplies",Appliances,48.79,3,-126.85,0.8
+2016,5,Central,"Office Supplies",Paper,1376.5,49,630.37,1.4
+2016,5,Central,Furniture,Chairs,4451.139999999999,17,463.9700000000001,0.8999999999999999
+2016,5,Central,Technology,Accessories,314.12,8,0.7299999999999986,0.6000000000000001
+2016,5,Central,"Office Supplies",Art,155.39,22,19.72,0.4
+2016,9,Central,Technology,Phones,1899.33,31,328.43,0.6000000000000001
+2017,4,South,"Office Supplies",Labels,55.87,15,20.41,1
+2016,11,East,Furniture,Furnishings,658.72,35,184.54,1
+2016,11,East,"Office Supplies",Art,330.0899999999999,21,92.84,0
+2016,11,West,"Office Supplies",Paper,759.0799999999999,39,356.8,0.4
+2016,12,South,Furniture,Furnishings,1547.1100000000001,27,527.54,0
+2017,7,South,Furniture,Furnishings,59.53,11,19.46,0.2
+2017,7,South,Technology,Phones,581.9300000000001,12,147.11,0.2
+2016,7,Central,Technology,Phones,2451.21,34,453.90999999999997,0.6000000000000001
+2016,6,West,"Office Supplies",Binders,202.20000000000002,44,69.71000000000001,1.5999999999999999
+2016,6,West,"Office Supplies",Appliances,382.27,12,110.83000000000001,0
+2016,6,West,"Office Supplies",Storage,255.62,7,35,0
+2016,6,West,Furniture,Chairs,767.04,9,60.04,0.6000000000000001
+2016,9,East,Furniture,Chairs,2802.59,17,280.32000000000005,1.6
+2016,12,West,"Office Supplies",Supplies,625.02,9,41.19,0
+2017,2,East,"Office Supplies",Binders,66.25,13,12.35,1.5999999999999999
+2017,2,East,"Office Supplies",Storage,1031.51,10,156.76,0.2
+2017,10,South,"Office Supplies",Paper,240.01000000000002,32,91.33999999999999,1.4
+2017,10,West,"Office Supplies",Art,240.5,26,54.03,0.4
+2017,6,East,Technology,Phones,1305.42,25,146.81,1.6
+2017,6,East,"Office Supplies",Storage,2486.4700000000003,27,572.99,0.4
+2016,5,East,"Office Supplies",Storage,2279.2099999999996,22,58.15999999999999,0.6000000000000001
+2017,3,East,"Office Supplies",Paper,506.14,31,239.89,0
+2017,1,South,Technology,Machines,695.7,2,-27.82,0.5
+2016,3,South,"Office Supplies",Storage,580.36,11,138.9,0.2
+2017,5,West,"Office Supplies",Paper,721.6999999999999,45,324.58000000000004,0.4
+2017,5,West,Furniture,Tables,1044.51,10,57.260000000000005,0.6000000000000001
+2016,5,South,"Office Supplies",Paper,625.32,41,270.26,0.8
+2017,4,Central,Furniture,Furnishings,641.8,13,91.22,1.7999999999999998
+2017,10,East,"Office Supplies",Art,129.88,10,12.35,0.2
+2017,11,West,Technology,Machines,3055.95,6,255.99,1.0999999999999999
+2017,11,West,Technology,Phones,2562.35,37,206.09,1.9999999999999998
+2017,7,West,Furniture,Furnishings,1193.3500000000001,36,316.26,0
+2017,3,East,Technology,Accessories,665.6,24,155.43,0.2
+2016,2,South,"Office Supplies",Storage,1920,15,224.22,0.2
+2016,2,South,"Office Supplies",Paper,830.67,21,397.65000000000003,0.2
+2016,2,South,"Office Supplies",Fasteners,9.45,5,0.18,0
+2016,2,South,Furniture,Furnishings,487.83,18,31.049999999999997,0.2
+2016,2,South,Furniture,Bookcases,239.98,2,52.79,0
+2016,2,South,"Office Supplies",Envelopes,167.96,2,78.94,0
+2016,2,South,Technology,Phones,1717.65,9,281.24,0.2
+2017,7,South,"Office Supplies",Art,135.53,18,37.19,0.4
+2017,10,Central,Furniture,Tables,2089.85,19,-572.5600000000001,2.1
+2016,11,South,Technology,Phones,479.49,10,65.86,0.6000000000000001
+2016,11,South,"Office Supplies",Envelopes,251.79,3,118.34,0
+2016,4,East,Furniture,Tables,205.17,2,-58.13,0.4
+2016,9,East,"Office Supplies",Art,98.80000000000001,11,21.75,0.8
+2016,9,West,Furniture,Tables,2236.3100000000004,10,70.73999999999998,0.8999999999999999
+2016,7,East,Furniture,Chairs,661.76,4,103.54,0.2
+2016,7,East,Furniture,Furnishings,204.34000000000003,9,27.53,0.2
+2017,1,West,Furniture,Furnishings,540.0899999999999,18,220.18,0
+2017,6,East,"Office Supplies",Art,101.7,15,23.25,0.4
+2017,4,East,"Office Supplies",Binders,135.11,34,-52.470000000000006,5.1000000000000005
+2016,5,Central,Technology,Phones,2491.4,18,218.72000000000003,0.8
+2017,6,Central,Furniture,Chairs,3453.19,18,419.44,0.6
+2016,11,South,"Office Supplies",Paper,216.73000000000002,17,85.91,0.8
+2016,11,South,"Office Supplies",Binders,154.74,22,51.36000000000001,2.0999999999999996
+2016,11,South,Technology,Machines,3040,8,1459.2,0
+2017,6,South,"Office Supplies",Binders,213.37,16,96.88000000000001,0.7
+2017,6,South,Furniture,Tables,573.9,5,39.72,0.4
+2016,8,Central,Furniture,Chairs,1024.71,6,-29.27,0.3
+2017,12,Central,Furniture,Chairs,3410.51,17,603.28,0.8999999999999999
+2017,3,East,"Office Supplies",Labels,146.56,16,67.85,0
+2016,11,South,"Office Supplies",Supplies,237.5,9,-28.89,0.4
+2017,8,South,"Office Supplies",Art,9.72,2,1.7,0.2
+2016,10,West,Technology,Accessories,1354.93,20,321.51,0.2
+2017,4,East,"Office Supplies",Envelopes,79.94,5,36.82,0
+2017,10,West,Furniture,Furnishings,174.14000000000001,14,52.48,0
+2017,9,Central,"Office Supplies",Art,111.16999999999999,23,23.699999999999996,1.4
+2017,11,Central,"Office Supplies",Paper,810.21,49,328.85,1.2
+2016,11,West,Technology,Phones,932.04,9,85.84,1
+2016,9,South,Technology,Machines,396,4,190.08,0
+2017,8,Central,"Office Supplies",Storage,550.4300000000001,20,11.309999999999999,0.8
+2017,8,Central,"Office Supplies",Binders,175.7,37,-21.400000000000006,4.8
+2017,4,Central,"Office Supplies",Art,39.33,10,7.8,0.6000000000000001
+2017,8,West,"Office Supplies",Storage,3989.8899999999994,56,780.74,0.4
+2017,8,West,"Office Supplies",Fasteners,8.37,3,2.72,0.2
+2017,2,West,Furniture,Bookcases,203.98,2,16.79,0.15
+2016,10,East,"Office Supplies",Appliances,73.11,6,19.61,0
+2017,9,East,Furniture,Bookcases,782.94,3,203.56,0
+2017,11,Central,"Office Supplies",Appliances,174.82,22,-208.27,2.4000000000000004
+2017,10,South,"Office Supplies",Binders,2021.42,30,-1264.8400000000004,3.5
+2016,5,East,"Office Supplies",Envelopes,36.22,7,16.4,0.2
+2016,5,East,"Office Supplies",Art,105.50999999999999,14,16.85,0.6000000000000001
+2017,6,East,Furniture,Tables,1429.39,7,-411.40000000000003,0.8
+2017,6,West,"Office Supplies",Paper,717.0799999999999,39,342.99,0.2
+2016,2,East,"Office Supplies",Appliances,170.88,3,49.55,0
+2016,4,Central,"Office Supplies",Art,47.04,11,9.08,0.4
+2016,4,Central,"Office Supplies",Fasteners,37.09,10,11.91,0.2
+2017,5,East,Furniture,Chairs,896.4300000000001,12,-126.69000000000001,0.8999999999999999
+2017,11,Central,"Office Supplies",Supplies,36.53,6,7.3,0.2
+2017,11,Central,"Office Supplies",Art,543.2399999999999,59,110.57000000000001,1.4
+2016,12,South,"Office Supplies",Art,78.87,17,11.01,0.6000000000000001
+2017,11,East,"Office Supplies",Art,535.97,40,135.04,0.4
+2016,4,West,Technology,Phones,39.96,5,12.98,0.2
+2016,4,West,"Office Supplies",Art,78.66,8,22.74,0
+2016,3,East,Technology,Accessories,895.63,18,188.01000000000002,0.8
+2016,9,East,"Office Supplies",Storage,2552.2400000000002,34,398.63000000000005,0.8
+2017,7,West,Technology,Accessories,5201.67,29,1748.5,0
+2017,6,East,Furniture,Furnishings,380.7800000000001,14,77.85999999999999,0.4
+2016,5,East,"Office Supplies",Paper,253.37,21,108.03,1
+2016,5,East,Technology,Accessories,917.65,20,18.870000000000005,0.6000000000000001
+2016,5,East,"Office Supplies",Binders,220.64,19,71.83,1.7
+2016,5,East,Furniture,Furnishings,697.92,46,204.25,0.4
+2017,11,West,"Office Supplies",Fasteners,35.8,10,14.209999999999999,0
+2017,1,West,Technology,Phones,1322.1999999999998,19,217.9,1
+2017,4,East,Technology,Phones,960.2,11,-138.13,0.8
+2016,11,Central,Technology,Accessories,1429.8899999999999,50,218.87,1.9999999999999998
+2017,10,Central,Technology,Phones,3186.04,29,498.9599999999999,1
+2016,3,West,Technology,Accessories,85.43,5,24.43,0
+2017,7,Central,Technology,Phones,871.47,13,239.04999999999998,0.6000000000000001
+2016,5,West,"Office Supplies",Storage,110.26,4,27.080000000000002,0
+2017,4,East,"Office Supplies",Appliances,458.27,13,80.19,0.4
+2016,3,East,Furniture,Furnishings,1586.61,35,450.65000000000003,0.4
+2016,6,Central,Technology,Accessories,166.59,14,29.89,0.6000000000000001
+2017,10,West,"Office Supplies",Labels,246.48999999999998,25,114.94999999999997,0
+2017,10,West,Technology,Phones,717.76,24,17.759999999999998,1.5999999999999999
+2017,10,West,"Office Supplies",Appliances,2187.7200000000003,24,641.2900000000001,0
+2017,9,Central,Furniture,Tables,1277.81,12,-632.41,0.8
+2017,10,West,Furniture,Bookcases,1282.06,15,-354.65,1
+2016,5,East,"Office Supplies",Appliances,1064.5,16,258.59000000000003,0.4
+2017,4,East,Furniture,Tables,1048.35,5,-69.89,0.4
+2016,2,South,Technology,Accessories,100,4,21,0
+2016,2,South,"Office Supplies",Labels,7.83,3,3.6,0
+2016,7,Central,"Office Supplies",Art,411.40999999999997,19,47.15,0.8
+2017,7,South,"Office Supplies",Appliances,256.69,8,67.80000000000001,0.2
+2017,10,East,Technology,Accessories,1179.33,17,131.78,0.2
+2016,8,South,"Office Supplies",Binders,49.76,20,-8.469999999999999,2.0999999999999996
+2016,8,South,"Office Supplies",Paper,87.63,16,29.520000000000003,0.8
+2016,8,South,"Office Supplies",Supplies,63.1,4,14.01,0.2
+2016,8,South,"Office Supplies",Labels,135.97,18,65.17999999999999,0.4
+2016,8,South,Furniture,Furnishings,296.34,12,87.14,0
+2017,3,Central,"Office Supplies",Supplies,6.97,4,-1.39,0.2
+2017,8,East,"Office Supplies",Storage,1931.45,19,-308.82,0.4
+2016,8,Central,"Office Supplies",Fasteners,11.16,4,3.62,0.2
+2017,9,East,"Office Supplies",Supplies,4854.62,9,-1092.29,0.4
+2016,2,Central,Technology,Phones,69.93,7,0.69,0
+2016,10,Central,"Office Supplies",Paper,155.41,15,52.529999999999994,0.8
+2016,2,Central,"Office Supplies",Appliances,582.38,15,-88.27000000000001,0.8
+2016,2,Central,"Office Supplies",Fasteners,6.97,4,1.83,0.2
+2016,2,Central,Furniture,Chairs,304.45,7,-2.69,0.6
+2016,2,Central,"Office Supplies",Paper,5.18,1,1.81,0.2
+2017,8,Central,Technology,Machines,1439.98,3,-263.99,0.4
+2017,8,Central,"Office Supplies",Paper,380.83,26,153.6,0.8
+2017,2,South,"Office Supplies",Appliances,1245.86,7,361.29,0
+2016,7,South,Furniture,Chairs,504.73,6,39.42,0.2
+2017,1,East,"Office Supplies",Paper,166.67,17,75.45,0.2
+2017,1,East,Furniture,Furnishings,69.64,4,22.21,0.2
+2017,9,West,Furniture,Chairs,4286.32,32,285.31999999999994,1.9999999999999998
+2017,3,East,Furniture,Bookcases,699.52,4,72.68,0.2
+2016,10,West,Furniture,Tables,727.45,5,-465.56,0.5
+2017,11,West,Furniture,Tables,7368.159999999999,37,691.82,0.8
+2016,3,East,Furniture,Bookcases,778.22,9,-431.24,1.2
+2017,3,Central,Technology,Phones,1099.8700000000001,14,94.31,1
+2017,3,South,"Office Supplies",Binders,473.02,35,129.85,1.4
+2017,1,Central,"Office Supplies",Labels,17.52,7,6.27,0.4
+2017,12,South,"Office Supplies",Envelopes,7.82,1,2.93,0.2
+2017,12,South,"Office Supplies",Art,211.59,34,33.78,1.2
+2016,6,South,"Office Supplies",Storage,191.88,6,19.18,0
+2017,10,West,Technology,Accessories,2876.9700000000007,52,646.36,0.4
+2017,10,Central,"Office Supplies",Storage,2000.7099999999996,28,39.809999999999995,1
+2017,7,Central,"Office Supplies",Paper,587.29,30,208,1
+2017,7,Central,Technology,Machines,597.13,3,49.76,0.4
+2017,8,East,Furniture,Chairs,6658.630000000001,16,-159.46000000000004,0.4
+2017,3,West,Technology,Accessories,2621.7,38,833.6700000000001,0
+2016,6,West,Technology,Phones,4781.160000000001,28,507.97999999999996,1.2
+2017,3,West,"Office Supplies",Paper,1189.9000000000003,43,573.4300000000001,0
+2017,3,West,"Office Supplies",Storage,2671.27,33,365.05,0
+2017,3,West,Technology,Phones,2237.3,27,39.559999999999995,1.4
+2017,8,South,Furniture,Bookcases,145.74,3,23.31,0
+2017,8,South,Furniture,Furnishings,50.16,8,7.8,0.4
+2017,8,Central,"Office Supplies",Labels,230.95999999999998,21,107.53999999999999,0.2
+2017,9,East,Furniture,Tables,598.74,3,-282.64,0.8
+2017,9,East,"Office Supplies",Appliances,103.84,8,30.1,0
+2017,9,East,"Office Supplies",Paper,1382.9699999999998,85,642.68,1.2
+2017,9,Central,"Office Supplies",Appliances,138.47000000000003,15,-194.98999999999998,2.4000000000000004
+2017,5,Central,"Office Supplies",Art,237.2,27,58,0.6000000000000001
+2017,5,Central,Technology,Accessories,600.7,11,105.41999999999999,0.4
+2016,7,East,Technology,Copiers,1439.97,4,191.99,0.4
+2017,6,West,"Office Supplies",Fasteners,14.18,4,-0.7599999999999998,0.2
+2017,12,Central,Furniture,Furnishings,285.20000000000005,23,-85.92,4.2
+2017,4,West,Technology,Accessories,594.35,20,94.85,0
+2017,4,West,"Office Supplies",Art,244.14000000000001,22,70.32,0.2
+2017,12,South,"Office Supplies",Storage,1394.7500000000002,22,134.57,0.6000000000000001
+2017,12,South,Furniture,Chairs,3718.5,31,888.18,0.2
+2017,8,Central,Furniture,Bookcases,183.37,2,-36.67,0.3
+2016,9,South,Furniture,Chairs,1999.24,11,491.92,0.2
+2016,9,South,"Office Supplies",Paper,371.40999999999997,20,168.85999999999999,0.4
+2016,9,South,"Office Supplies",Storage,1216.15,18,157.16,0
+2017,8,West,"Office Supplies",Binders,4549.9800000000005,60,1551.1,2.6
+2016,9,West,"Office Supplies",Binders,1021.7499999999999,57,333.59,4.300000000000002
+2017,9,Central,Furniture,Chairs,2424.4700000000003,26,235.16000000000003,0.8999999999999999
+2016,7,East,"Office Supplies",Appliances,1206.5,21,295.91999999999996,0.4
+2016,7,East,"Office Supplies",Paper,337.75,29,136.92000000000002,0.4
+2017,12,Central,Furniture,Tables,1994.3,8,69.71000000000001,0.3
+2016,6,East,"Office Supplies",Fasteners,13.600000000000001,8,4.95,0.2
+2017,7,East,Furniture,Tables,664.16,6,-187.39999999999998,1.1
+2017,9,West,Technology,Accessories,1590,38,397.20000000000005,0.8
+2017,4,West,"Office Supplies",Paper,776.95,30,370.78,0.2
+2017,4,West,"Office Supplies",Binders,1263.54,47,378.51,3.3000000000000007
+2017,9,Central,Furniture,Bookcases,1067.1299999999999,11,-76.75,0.3
+2016,9,East,"Office Supplies",Fasteners,16.68,7,5.42,0.2
+2017,11,Central,Furniture,Chairs,2539.32,18,82.05,1.5
+2016,7,West,"Office Supplies",Fasteners,25.44,8,10.81,0
+2017,10,South,"Office Supplies",Art,42.22,13,7.82,0.6000000000000001
+2016,1,West,"Office Supplies",Art,74.25999999999999,3,20.33,0
+2016,10,Central,Technology,Accessories,2027.31,17,579.99,0.6000000000000001
+2016,10,Central,"Office Supplies",Art,106.96000000000001,13,21.77,0.6000000000000001
+2016,10,Central,"Office Supplies",Binders,892.71,18,390.54,0.8
+2017,1,East,"Office Supplies",Art,22.29,7,3.24,0.4
+2017,1,East,Technology,Accessories,521.88,12,148.47,0.2
+2017,1,East,Technology,Phones,675.52,8,-84.21,0.8
+2016,7,Central,"Office Supplies",Binders,25.42,11,-41.03,2.4000000000000004
+2016,5,East,"Office Supplies",Labels,65.02,7,31.17,0.2
+2016,5,East,Furniture,Chairs,442.76,4,59.03,0.1
+2016,5,East,Technology,Machines,4224.88,8,995.03,0.7
+2016,7,South,Technology,Accessories,104.98,4,25.48,0
+2017,8,Central,Furniture,Furnishings,203.03999999999996,9,-40.60000000000001,1.2
+2016,12,West,"Office Supplies",Appliances,413.86000000000007,20,116.28,0.4
+2016,9,South,"Office Supplies",Art,204.61,27,39.629999999999995,0.8
+2017,7,West,Technology,Phones,3386.0299999999997,31,286.78999999999996,1
+2016,3,West,Furniture,Bookcases,72.29,1,-98.8,0.7
+2017,7,Central,"Office Supplies",Fasteners,2.89,2,0.47,0.2
+2016,10,East,Furniture,Tables,1373.3000000000002,6,-408.95,1.5000000000000002
+2016,7,West,"Office Supplies",Supplies,78.19999999999999,10,16.65,0.2
+2016,11,East,Technology,Phones,4790.86,38,799.4399999999999,1.6
+2017,11,West,"Office Supplies",Appliances,664.53,14,183.06,0
+2017,6,West,Furniture,Chairs,1784.88,12,100.59,0.6000000000000001
+2017,2,South,Furniture,Bookcases,591.89,8,84.98,0.2
+2016,11,South,Technology,Accessories,2011.6100000000001,15,667.96,0
+2017,6,East,"Office Supplies",Appliances,17.48,5,1.31,0.2
+2017,1,West,Furniture,Tables,1292.65,9,65.38,0.2
+2017,9,South,Furniture,Chairs,1240.23,10,136.65,0.4
+2017,9,South,"Office Supplies",Paper,1342.08,52,544.7200000000001,1.4
+2016,12,Central,Furniture,Bookcases,1329.0900000000001,19,-119.64,0.62
+2017,11,East,Technology,Accessories,1723.0300000000002,37,606.4300000000001,1
+2017,7,Central,"Office Supplies",Labels,34.85,9,16.37,0
+2017,7,Central,"Office Supplies",Binders,1182.8899999999999,48,275.8399999999999,4.8
+2017,7,Central,Furniture,Chairs,1011.95,10,24.89,0.3
+2017,7,Central,Technology,Accessories,949.6700000000001,13,287.74,0
+2016,9,West,"Office Supplies",Storage,1269.3400000000001,25,6.110000000000015,0.2
+2017,3,Central,"Office Supplies",Paper,837.3899999999999,36,334.29,1.5999999999999999
+2016,11,South,"Office Supplies",Art,77.07000000000001,13,21.150000000000002,0.2
+2016,3,Central,"Office Supplies",Paper,143.26,10,52.66,0.6000000000000001
+2016,3,South,"Office Supplies",Appliances,1032.12,5,132.06,0.2
+2016,3,South,"Office Supplies",Binders,109.61999999999999,9,15.920000000000002,0.7
+2017,7,East,Technology,Accessories,1371.99,32,361.23,0.4
+2016,7,Central,Furniture,Furnishings,765.3900000000001,29,-361.59999999999997,2.4
+2016,7,Central,"Office Supplies",Fasteners,23.07,8,10.01,0.2
+2016,7,Central,Furniture,Chairs,1185.36,11,82.38,0.6
+2017,1,South,"Office Supplies",Fasteners,5.67,3,0.11,0
+2016,5,East,"Office Supplies",Fasteners,7.21,2,1.71,0.2
+2017,3,West,"Office Supplies",Appliances,788.93,21,233.75,0
+2017,3,West,Technology,Copiers,14959.919999999998,8,6839.959999999999,0.4
+2016,3,East,"Office Supplies",Art,117.85,7,29.790000000000003,0.2
+2017,8,West,"Office Supplies",Labels,109.25999999999999,12,52.5,0
+2017,8,West,"Office Supplies",Art,98.88000000000001,15,26.200000000000003,0
+2017,4,Central,"Office Supplies",Storage,394.65,13,-46.26,0.6000000000000001
+2017,4,Central,"Office Supplies",Envelopes,28.4,5,13.34,0
+2017,1,West,"Office Supplies",Art,84.62,26,27.55,0
+2017,3,West,Furniture,Furnishings,407.15,25,151.86999999999998,0
+2016,5,West,Technology,Machines,3326.7700000000004,15,337.84999999999997,0.6000000000000001
+2016,4,Central,"Office Supplies",Paper,19.93,5,6.47,0.4
+2017,12,East,Furniture,Tables,799.6400000000001,4,-157.32,0.7
+2016,6,Central,"Office Supplies",Binders,18.459999999999997,10,-13.360000000000001,2.4000000000000004
+2017,5,West,"Office Supplies",Labels,96.07,11,45.14,0
+2017,12,West,Furniture,Furnishings,1553.3000000000002,74,358.12,1
+2017,5,Central,Technology,Phones,872.3800000000001,16,178.85999999999999,0.8
+2016,5,East,Technology,Phones,2281,22,403.99,0.8
+2016,5,East,Furniture,Tables,174.28,2,-19.91,0.3
+2017,3,East,"Office Supplies",Storage,251.47,14,46.64,0.4
+2017,8,East,"Office Supplies",Appliances,744.11,10,90.05000000000001,0.2
+2017,5,South,"Office Supplies",Paper,577.88,29,271.35,0.4
+2017,5,South,"Office Supplies",Storage,588.35,5,170.27,0
+2016,1,South,Furniture,Furnishings,330.03999999999996,16,35.85,0.4
+2016,1,South,Furniture,Bookcases,451.13,4,-67.67,0.2
+2016,1,South,"Office Supplies",Appliances,64.86,4,6.48,0.2
+2016,11,West,"Office Supplies",Appliances,1446.52,25,531.93,0
+2017,9,West,Furniture,Tables,3621.6,18,46.91,0.8
+2017,6,Central,"Office Supplies",Storage,958.89,12,44.239999999999995,0.4
+2017,8,West,Technology,Phones,2446.8300000000004,34,236.05,1.5999999999999999
+2017,8,West,Furniture,Tables,2334.76,12,286.57000000000005,0.6000000000000001
+2016,9,Central,Furniture,Tables,902.4000000000001,8,-335.12,0.8
+2017,6,South,"Office Supplies",Envelopes,37.6,3,12.69,0.2
+2017,12,South,"Office Supplies",Binders,201.96999999999997,32,5.500000000000001,1.4
+2016,11,Central,Furniture,Chairs,1313.45,18,-29.299999999999983,0.8999999999999999
+2016,10,Central,"Office Supplies",Labels,109.76,19,44.589999999999996,0.2
+2016,10,Central,"Office Supplies",Appliances,2796.18,10,1003.65,0
+2017,4,West,Furniture,Bookcases,930.47,16,107.53999999999999,0.44999999999999996
+2017,11,South,"Office Supplies",Binders,96.50000000000001,36,-40.93,4.2
+2016,8,South,Technology,Phones,750.3199999999999,9,75.02,0.4
+2017,12,South,Technology,Accessories,1168.82,28,451,0.4
+2017,9,East,"Office Supplies",Storage,943.67,32,201.34000000000006,0.2
+2017,7,Central,Furniture,Furnishings,858.47,14,-317.04,0.6
+2017,5,Central,"Office Supplies",Envelopes,180.96,2,81.43,0
+2017,5,Central,"Office Supplies",Binders,1062.2299999999998,30,439.33,4
+2017,4,East,"Office Supplies",Supplies,417.98,13,59.39,0
+2016,6,East,Technology,Machines,1349.85,3,364.45,0
+2016,6,East,Furniture,Bookcases,490.34000000000003,3,-39.07,0.4
+2016,3,West,"Office Supplies",Art,16.99,1,4.92,0
+2017,4,West,"Office Supplies",Labels,75.48,20,36.69,0
+2017,10,East,Technology,Copiers,11199.96,4,3919.98,0.2
+2017,10,East,"Office Supplies",Envelopes,143.56,11,63.81999999999999,0.2
+2017,11,East,Technology,Machines,705.4300000000001,11,-911.83,0.7
+2017,5,West,Furniture,Chairs,1463.25,23,-25.480000000000004,0.8
+2017,6,East,Furniture,Chairs,1982.75,15,164.17999999999998,0.6000000000000001
+2016,4,South,Technology,Phones,186.76,4,10.120000000000001,0.2
+2016,4,South,Furniture,Furnishings,264.7,21,55.19,0.4
+2016,9,West,Furniture,Bookcases,1340.15,11,132.38,0.44999999999999996
+2017,9,West,Furniture,Bookcases,1785.76,9,-277.35,1.5499999999999998
+2017,9,West,"Office Supplies",Labels,156.79000000000002,21,74.07,0.2
+2016,8,West,"Office Supplies",Envelopes,146.76,8,68.97,0
+2017,11,East,"Office Supplies",Envelopes,273.51,10,126.16,0.2
+2016,5,South,"Office Supplies",Labels,80.81,10,38.3,0.2
+2016,5,South,Furniture,Tables,2646.12,13,244.76,0.4
+2017,1,Central,Technology,Accessories,902.44,23,212.13,0.4
+2016,9,South,"Office Supplies",Envelopes,130.51,7,43.03,0.4
+2016,9,South,"Office Supplies",Binders,314.99,40,87.28999999999999,2.8
+2016,2,East,"Office Supplies",Paper,35.120000000000005,3,12.76,0.2
+2017,6,West,"Office Supplies",Supplies,16.68,2,4.33,0
+2017,8,South,Technology,Accessories,911.61,13,265.14,0.4
+2017,2,West,"Office Supplies",Art,19.47,6,5.25,0
+2017,2,West,Technology,Accessories,941.48,8,395.86000000000007,0.2
+2017,4,South,"Office Supplies",Supplies,477.24,4,9.54,0
+2016,2,East,"Office Supplies",Envelopes,104.28999999999999,8,39.11,0.4
+2017,1,East,"Office Supplies",Appliances,2501.4800000000005,12,468.55000000000007,0.4
+2017,12,South,Furniture,Furnishings,209.94,18,60.39,0.6000000000000001
+2017,5,East,"Office Supplies",Labels,150.3,15,73.30000000000001,0.4
+2016,10,East,Technology,Phones,1351.0500000000002,19,210.37,0.8
+2016,10,South,Technology,Phones,1076.6100000000001,11,116.13,0.6000000000000001
+2016,5,West,Furniture,Tables,2055.73,11,326,0.4
+2017,1,South,"Office Supplies",Art,15.47,7,4.17,0
+2016,6,South,Technology,Machines,787.1700000000001,3,-29.64,1
+2017,3,Central,"Office Supplies",Storage,499.99,17,50.34,0.8
+2016,8,West,Furniture,Chairs,2135.83,10,60.239999999999995,0.4
+2016,8,South,Furniture,Chairs,225.29,2,22.52,0.2
+2017,5,South,Technology,Accessories,166.96999999999997,14,29.4,0.2
+2017,5,South,Technology,Phones,1635.83,17,335.11,0.2
+2017,5,South,Furniture,Bookcases,2488.0699999999997,17,468.51000000000005,0.2
+2017,8,West,"Office Supplies",Appliances,5143.5599999999995,31,1393.37,0
+2017,8,West,"Office Supplies",Supplies,83.74,14,23.330000000000002,0.2
+2016,11,East,"Office Supplies",Supplies,14.72,5,-3.31,0.2
+2016,1,West,Furniture,Chairs,1602.2,13,10.430000000000007,0.6000000000000001
+2016,1,East,"Office Supplies",Envelopes,92.22,8,43.86,0
+2016,1,East,"Office Supplies",Art,26.58,12,6.959999999999999,0.2
+2016,9,East,"Office Supplies",Supplies,61.599999999999994,10,17.95,0
+2016,1,South,Technology,Copiers,959.96,4,119.99,0.2
+2016,6,Central,Furniture,Chairs,1004.26,7,-133.01,0.8999999999999999
+2017,2,West,"Office Supplies",Fasteners,29.049999999999997,11,3.6100000000000003,0.2
+2017,8,Central,"Office Supplies",Art,23.14,11,4.24,0.6000000000000001
+2016,12,West,"Office Supplies",Envelopes,188.32,16,86.84,0.2
+2017,3,Central,Furniture,Chairs,4874.93,24,975.7900000000001,0.8999999999999999
+2017,12,West,"Office Supplies",Envelopes,43.7,5,20.53,0
+2017,5,East,"Office Supplies",Binders,1052.5,26,289.65000000000003,3
+2016,5,South,Furniture,Furnishings,116.63,15,32.42,0.6000000000000001
+2016,5,South,"Office Supplies",Storage,1452.3500000000001,15,165.96,0.2
+2016,2,West,Technology,Accessories,171.06,7,66.72,0
+2016,2,West,"Office Supplies",Binders,49.8,11,17.42,0.4
+2016,2,West,"Office Supplies",Storage,728.7099999999999,10,63.06,0
+2016,9,East,"Office Supplies",Appliances,886.98,7,209.9,0.2
+2017,10,East,"Office Supplies",Appliances,1068.68,8,270.18,0.2
+2017,4,West,Technology,Machines,7349.959999999999,7,-3039.99,0.8999999999999999
+2016,8,Central,"Office Supplies",Storage,780.38,12,-165.09,0.6000000000000001
+2016,8,Central,Furniture,Furnishings,37.49000000000001,10,-16.12,1.7999999999999998
+2017,11,Central,Furniture,Bookcases,533.72,5,-41.71,0.64
+2017,10,West,Furniture,Tables,1279.02,17,-109.29,1.5
+2017,10,West,"Office Supplies",Envelopes,8.96,2,4.3,0
+2017,11,East,"Office Supplies",Appliances,3613.87,38,792.18,0.8
+2016,1,West,"Office Supplies",Storage,419.46999999999997,11,104.86,0
+2017,9,West,Technology,Phones,2949.12,38,267.25,2.1999999999999997
+2017,5,South,"Office Supplies",Binders,347.27,34,63.709999999999994,1.4
+2017,2,Central,"Office Supplies",Binders,498.55,11,-847.0999999999999,2.4000000000000004
+2017,2,Central,Technology,Accessories,175.88,3,13,0.4
+2017,2,Central,Furniture,Furnishings,33.87,4,-32.41,1.7999999999999998
+2017,2,Central,"Office Supplies",Appliances,116.74000000000001,13,9.89,0.8
+2017,3,South,Furniture,Furnishings,61,5,25.62,0
+2017,3,South,Technology,Phones,878.03,12,243.77999999999997,0
+2016,3,East,"Office Supplies",Binders,749.86,34,247.12,2.7
+2016,3,East,Technology,Phones,2197.73,26,-132.61999999999995,2.4
+2017,4,Central,"Office Supplies",Labels,33.12,4,11.59,0.2
+2017,4,Central,Furniture,Bookcases,220.26,4,-42.1,0.32
+2017,4,East,Furniture,Bookcases,242.35,3,9.08,0.2
+2017,12,East,"Office Supplies",Supplies,725.23,11,41.6,0
+2016,7,Central,"Office Supplies",Labels,24.950000000000003,8,8.81,0.4
+2016,8,West,Technology,Machines,943.15,9,98.44,0.4
+2016,8,West,"Office Supplies",Supplies,15.88,4,0.15,0
+2017,11,Central,Technology,Phones,3339.34,28,725.9399999999999,1.4
+2017,11,Central,"Office Supplies",Envelopes,83.08,10,32.75,0.4
+2016,3,South,Technology,Accessories,119.97,3,-17.99,0.2
+2016,3,Central,Furniture,Chairs,2464.3999999999996,21,-235.94,1.2
+2016,3,Central,"Office Supplies",Art,174.17,16,22.12,0.6000000000000001
+2016,8,South,"Office Supplies",Fasteners,23.34,3,0.23,0
+2016,1,West,Technology,Phones,487.51,10,149.93,0.4
+2016,1,East,Furniture,Tables,495.51,4,-114.92,0.7
+2016,12,Central,"Office Supplies",Fasteners,24.85,7,11.67,0
+2016,12,South,Furniture,Tables,1136.83,10,129.20000000000002,0.4
+2016,3,South,"Office Supplies",Labels,10.08,4,3.52,0.2
+2017,5,West,Technology,Copiers,3359.95,6,1049.98,0.2
+2017,2,Central,"Office Supplies",Art,217.15,19,58.74,0.6000000000000001
+2017,10,East,Technology,Machines,6904.85,15,2119.1800000000003,0
+2017,8,West,Furniture,Furnishings,651.8900000000001,26,138.53,0.4
+2016,8,East,"Office Supplies",Paper,275.39,14,130.25,0
+2016,8,East,Furniture,Tables,1510.96,16,-441.41,1.5
+2016,8,East,"Office Supplies",Fasteners,22.259999999999998,11,2.87,0.2
+2016,5,Central,"Office Supplies",Binders,43.76,17,-67.75,4.8
+2017,8,South,"Office Supplies",Envelopes,17.65,6,5.76,0.4
+2017,10,South,"Office Supplies",Storage,1187.1499999999999,23,143.91,0.6000000000000001
+2017,10,South,"Office Supplies",Fasteners,30.61,7,11.16,0.2
+2017,10,South,Furniture,Tables,6205.49,26,-1601.08,1.2000000000000002
+2017,5,Central,Furniture,Furnishings,581.44,17,70.55,2.4
+2016,9,Central,"Office Supplies",Fasteners,46.05,18,10.24,0.4
+2016,5,West,"Office Supplies",Appliances,358.75000000000006,11,104.72,0
+2016,8,West,Furniture,Tables,3697.8100000000004,15,220.7,0.8
+2016,9,South,Technology,Accessories,1960.43,21,417.05999999999995,0.6000000000000001
+2017,4,Central,"Office Supplies",Paper,158.14,13,68.09,0.6000000000000001
+2017,4,Central,Technology,Accessories,299.03999999999996,12,84.65,0.4
+2016,8,South,"Office Supplies",Appliances,586.87,6,68.75,0.2
+2017,12,South,Technology,Phones,697.98,12,156.23,0.2
+2016,5,East,"Office Supplies",Supplies,120.07,12,34.26,0
+2017,10,South,"Office Supplies",Supplies,35.06,2,10.51,0
+2017,10,South,"Office Supplies",Labels,41.07,11,19.6,0
+2016,7,West,"Office Supplies",Paper,180.38,10,71.19999999999999,0.2
+2017,7,West,Technology,Machines,2395.2,6,209.58,0.2
+2017,8,East,"Office Supplies",Art,601.09,36,166.59,0.4
+2016,7,South,"Office Supplies",Storage,800.5699999999999,10,27.6,0.2
+2016,7,South,"Office Supplies",Paper,400.5,24,192.66,0.2
+2016,7,South,Furniture,Tables,2430.08,8,388.81,0
+2017,12,South,"Office Supplies",Supplies,1665.62,2,33.31,0
+2017,6,West,Technology,Accessories,3015.4700000000003,39,715.4599999999999,0.4
+2017,8,East,"Office Supplies",Paper,345.79,17,162.63000000000002,0.4
+2016,3,East,"Office Supplies",Envelopes,229.24,8,103.44,0
+2016,9,South,Technology,Phones,692.39,17,70.84,0.6000000000000001
+2017,5,West,"Office Supplies",Art,220.3,33,64.96,0
+2017,5,West,"Office Supplies",Storage,1481.3500000000001,22,122.61999999999999,0
+2016,11,East,"Office Supplies",Appliances,557.67,14,81.48,0.6000000000000001
+2017,8,Central,"Office Supplies",Appliances,769.19,18,93.52000000000001,0.8
+2017,4,South,"Office Supplies",Storage,788.6199999999999,5,66.46000000000001,0.2
+2017,6,West,"Office Supplies",Envelopes,43.92,5,15.92,0.2
+2016,10,South,"Office Supplies",Envelopes,101.54,10,45.72,0.2
+2016,10,South,"Office Supplies",Appliances,43.26,3,14.27,0
+2017,3,Central,"Office Supplies",Art,136.52,16,15.35,0.8
+2017,5,Central,"Office Supplies",Fasteners,32.78,10,5.260000000000001,0.2
+2016,9,South,"Office Supplies",Supplies,5.04,2,0.15,0
+2016,1,East,"Office Supplies",Binders,223.56,18,-38.540000000000006,1.2999999999999998
+2017,8,West,Technology,Copiers,1179.97,3,419.98,0.2
+2017,8,West,Furniture,Chairs,1395.72,12,94.89,0.8
+2017,8,West,"Office Supplies",Paper,710.54,24,326.27,0.6000000000000001
+2016,2,East,"Office Supplies",Art,119.08,10,10.4,0.2
+2017,5,East,"Office Supplies",Paper,132.93,10,58,0.4
+2016,8,Central,Furniture,Bookcases,398.33000000000004,4,-28.7,0.32
+2017,7,South,Technology,Accessories,65.42,4,5.579999999999999,0.4
+2017,11,South,Furniture,Tables,2305.44,10,-845.3199999999999,0.8
+2016,10,South,Furniture,Chairs,393.57000000000005,2,85.9,0.2
+2016,10,South,Technology,Accessories,22.7,1,5.95,0.2
+2016,10,South,"Office Supplies",Paper,164.23,10,59.62,0.6000000000000001
+2016,10,South,"Office Supplies",Supplies,33.36,4,-2.9400000000000004,0.4
+2017,3,Central,"Office Supplies",Labels,32.44,5,14.35,0.4
+2016,7,South,Technology,Phones,823.96,5,51.49,0.2
+2017,10,East,Furniture,Bookcases,2469.25,8,113.57999999999998,0.2
+2017,5,Central,Furniture,Chairs,3150.36,18,453.21999999999997,0.8999999999999999
+2017,5,Central,"Office Supplies",Appliances,1277.78,16,290.61,0.9
+2017,9,South,"Office Supplies",Binders,2326.96,18,1083.46,0.7
+2017,2,Central,Furniture,Tables,480.96,3,-269.33,0.5
+2017,2,Central,Technology,Phones,563.12,5,-76.75,0.4
+2017,7,West,Furniture,Tables,801.6,5,-448.89,0.5
+2017,7,West,Furniture,Chairs,1183.3000000000002,13,21.270000000000003,1
+2017,7,West,"Office Supplies",Paper,215.07,26,98.97,0.2
+2016,3,Central,Furniture,Bookcases,241.33,5,-14.19,0.32
+2016,8,East,"Office Supplies",Art,131.76,27,36.79,0.4
+2016,8,East,Technology,Accessories,577.89,12,149.66,0.4
+2016,6,East,"Office Supplies",Supplies,835.17,7,16.7,0
+2017,11,South,"Office Supplies",Supplies,2.94,1,-0.66,0.2
+2017,10,West,"Office Supplies",Fasteners,23.84,8,10.96,0
+2016,7,West,Technology,Copiers,4299.91,10,1394.96,0.2
+2016,4,West,Furniture,Bookcases,814.15,8,30.77,0.3
+2016,3,Central,Technology,Machines,287.91,3,33.58,0.4
+2017,12,South,Technology,Machines,1248.97,7,-39.8,1
+2016,9,West,"Office Supplies",Appliances,254.35999999999999,10,70.86,0
+2017,10,Central,"Office Supplies",Appliances,61.19,10,-157.24,2.4000000000000004
+2016,4,East,"Office Supplies",Labels,20.7,2,9.93,0
+2016,4,East,"Office Supplies",Supplies,906.63,22,-124.03999999999999,0.2
+2017,5,East,"Office Supplies",Storage,243.60000000000002,4,-49.38,0.2
+2017,5,South,"Office Supplies",Art,54.66,6,18.03,0
+2017,10,West,"Office Supplies",Storage,1615.8200000000002,9,205.16,0
+2017,11,South,"Office Supplies",Fasteners,25.06,7,12.53,0
+2016,6,Central,"Office Supplies",Labels,18.9,3,8.69,0
+2017,1,West,Furniture,Chairs,120.78,1,-13.58,0.2
+2017,9,East,"Office Supplies",Envelopes,60.650000000000006,13,25.38,0.4
+2016,4,South,"Office Supplies",Art,12.84,3,3.72,0
+2016,7,South,"Office Supplies",Binders,255.26,25,84.02,1.4
+2016,12,East,Furniture,Bookcases,81.94,1,20.48,0
+2016,10,East,Technology,Accessories,98.16,6,9.81,0
+2017,11,East,Technology,Copiers,11399.949999999999,6,5114.969999999999,0.4
+2016,12,East,"Office Supplies",Appliances,1783.91,16,432.19,0.6000000000000001
+2017,6,West,Technology,Machines,385.8,5,130.2,0.2
+2016,3,West,Furniture,Chairs,2487.04,16,154.09,0.8
+2017,8,Central,Technology,Accessories,302.99,12,43.36,0.4
+2017,9,South,"Office Supplies",Appliances,1368.4,16,196.78,0.4
+2016,11,Central,Furniture,Tables,5110.67,23,410.21,0.3
+2016,11,Central,Furniture,Bookcases,1298.62,9,-170.38,0.32
+2017,6,West,Furniture,Tables,871.4,4,148.13,0
+2017,7,West,"Office Supplies",Art,132.79,14,40.58,0
+2016,4,East,Technology,Machines,9099.93,7,2365.98,0
+2016,4,East,Furniture,Furnishings,92.6,4,10.709999999999999,0
+2017,8,South,"Office Supplies",Appliances,447.74,17,43.59,0.6000000000000001
+2017,10,South,"Office Supplies",Appliances,17.92,5,1.12,0.2
+2017,4,East,Technology,Accessories,197.09,5,42.14,0.2
+2017,2,South,Technology,Phones,29.16,3,8.45,0
+2017,9,Central,"Office Supplies",Fasteners,72.44,13,24.380000000000003,0.6000000000000001
+2016,10,West,"Office Supplies",Appliances,43.92,4,11.85,0
+2017,11,East,Furniture,Bookcases,505.52,4,-41.36,0.4
+2016,3,East,"Office Supplies",Appliances,901.95,3,297.64,0
+2017,5,South,"Office Supplies",Appliances,246.44,7,69.34,0.2
+2016,11,South,Furniture,Furnishings,1140.9099999999999,20,170.02,0.4
+2016,11,South,Furniture,Tables,2680.28,24,-445.8,1.25
+2016,5,Central,"Office Supplies",Appliances,494.4,11,-78.33000000000001,1.6
+2016,7,Central,Technology,Accessories,249.77,11,88.03,0.2
+2016,7,West,Furniture,Bookcases,1279.16,5,225.73,0.15
+2017,3,West,"Office Supplies",Supplies,1362.19,5,-291.8,0.2
+2016,11,West,"Office Supplies",Fasteners,15.26,7,5.03,0
+2017,6,South,"Office Supplies",Storage,1494.75,10,102.39,0.6000000000000001
+2017,7,East,Technology,Phones,4271.47,39,-287.52000000000004,2
+2017,7,East,Furniture,Furnishings,575.18,29,113.72,0.4
+2016,11,East,Furniture,Chairs,5440.429999999999,43,-22.27,2.3
+2017,3,Central,"Office Supplies",Envelopes,325.86,2,149.89,0
+2016,2,Central,"Office Supplies",Binders,56.82,3,28.41,0
+2017,12,South,"Office Supplies",Appliances,639.99,17,172.9,0.4
+2017,7,West,Technology,Copiers,2879.94,7,929.97,0.4
+2016,8,West,"Office Supplies",Art,14.02,4,5.46,0
+2016,12,East,"Office Supplies",Art,65.16000000000001,22,20.7,0.2
+2016,1,South,"Office Supplies",Binders,1333.17,12,626.51,0.7
+2016,12,South,"Office Supplies",Paper,333.31999999999994,32,137.82,0.8
+2017,9,South,"Office Supplies",Supplies,8.83,3,-1.98,0.2
+2016,9,South,Technology,Copiers,1599.92,8,751.96,0
+2016,4,East,Furniture,Chairs,2410.87,12,501.92999999999995,0.30000000000000004
+2017,5,West,"Office Supplies",Supplies,303.02,7,6.699999999999999,0
+2016,9,South,"Office Supplies",Labels,44.62,5,18.61,0.4
+2016,1,West,Furniture,Furnishings,164.76000000000002,16,63.650000000000006,0
+2017,5,Central,Furniture,Bookcases,828.12,8,-125.2,0.64
+2016,7,Central,"Office Supplies",Appliances,283.14,4,72.35,0.1
+2016,12,South,Technology,Phones,1854.1599999999999,16,304.42,0.6000000000000001
+2016,8,East,Furniture,Bookcases,163.88,4,-81.94,0.5
+2016,6,Central,"Office Supplies",Appliances,73.09,6,-180.56,1.6
+2016,11,South,"Office Supplies",Appliances,713.92,5,54.59,0.4
+2017,11,West,"Office Supplies",Labels,122.65,14,58.120000000000005,0
+2017,11,West,"Office Supplies",Supplies,27.93,3,8.09,0
+2017,3,Central,"Office Supplies",Fasteners,7.9,2,2.52,0
+2016,3,West,"Office Supplies",Supplies,4937.9400000000005,6,204.1,0
+2016,3,West,Furniture,Furnishings,63.56,5,19.34,0
+2016,10,West,Technology,Machines,1541.31,9,-875.4599999999999,0.8999999999999999
+2017,11,South,Furniture,Chairs,2277.8,10,486.46000000000004,0.4
+2017,2,South,"Office Supplies",Binders,3.88,2,-2.58,0.7
+2017,2,South,"Office Supplies",Paper,115.29,3,40.35,0.2
+2016,12,East,"Office Supplies",Supplies,62.75,8,12.649999999999999,0.4
+2016,9,West,"Office Supplies",Supplies,19.92,5,5.5600000000000005,0
+2016,2,East,"Office Supplies",Labels,8.67,3,4.07,0
+2016,2,East,"Office Supplies",Supplies,25.71,3,6.68,0
+2017,1,Central,"Office Supplies",Paper,487.51999999999987,25,235.22000000000003,0
+2016,11,East,Technology,Copiers,1199.97,4,179.99,0.4
+2016,11,East,Technology,Machines,4850.24,20,-6505.87,1.4
+2017,11,South,"Office Supplies",Envelopes,70.16,9,26.91,0.2
+2016,11,South,"Office Supplies",Storage,2547.6399999999994,23,400.33,0.4
+2017,12,West,"Office Supplies",Supplies,61.3,8,9.54,0.2
+2017,3,East,"Office Supplies",Binders,254.81,18,90.62,1.5999999999999999
+2017,1,South,"Office Supplies",Paper,36.28,7,12.7,0.2
+2016,1,East,Furniture,Bookcases,173.94,3,38.26,0
+2017,12,South,"Office Supplies",Paper,770.1400000000001,10,368.75,0
+2017,12,South,"Office Supplies",Fasteners,3.62,2,1.19,0
+2016,9,West,"Office Supplies",Fasteners,14.830000000000002,5,6.59,0
+2016,12,Central,"Office Supplies",Supplies,20.56,3,1.54,0.2
+2016,1,West,"Office Supplies",Paper,69.66,7,34,0
+2017,5,West,Furniture,Bookcases,299.96,10,-509.93999999999994,1.4
+2017,7,East,"Office Supplies",Storage,992.76,31,26.53,1
+2017,3,East,"Office Supplies",Supplies,347.58,3,17.37,0
+2017,1,West,"Office Supplies",Supplies,118.68,8,34.15,0
+2017,11,West,Furniture,Bookcases,359.49,3,-29.6,0.15
+2017,8,West,"Office Supplies",Envelopes,32.14,3,14.86,0.2
+2017,12,West,"Office Supplies",Fasteners,22.62,8,9,0.2
+2016,1,Central,"Office Supplies",Paper,197.98,12,67.33,0.6000000000000001
+2017,7,East,"Office Supplies",Labels,52.53,8,24.54,0.2
+2017,2,West,"Office Supplies",Storage,545.0999999999999,11,50.28,0.2
+2017,10,Central,Furniture,Bookcases,328.39,3,-91.75,0.32
+2017,5,West,"Office Supplies",Envelopes,44.4,11,19.009999999999998,0.2
+2016,3,Central,"Office Supplies",Supplies,3930.07,3,-786.01,0.2
+2016,3,Central,"Office Supplies",Fasteners,2.3,1,0.77,0.2
+2017,3,West,Furniture,Tables,1096.83,12,-6.27,0.4
+2016,5,South,Technology,Accessories,2139.6,10,692.15,0.2
+2016,2,East,Technology,Phones,130.46,4,25.509999999999998,0
+2017,4,West,"Office Supplies",Envelopes,49.239999999999995,6,21.97,0.2
+2017,4,South,Furniture,Bookcases,585.4,12,-46.72,0.4
+2017,2,West,"Office Supplies",Labels,9.82,2,4.81,0
+2016,2,West,Technology,Phones,1229.88,14,62.74000000000001,0.6000000000000001
+2016,2,West,"Office Supplies",Fasteners,10.65,3,5,0
+2016,6,West,Furniture,Bookcases,838.8199999999999,7,49.33,0.3
+2016,7,Central,"Office Supplies",Envelopes,20.93,1,7.06,0.2
+2017,6,Central,"Office Supplies",Labels,44.4,3,22.2,0
+2017,1,South,Furniture,Chairs,419.13,4,-68.1,0.2
+2017,4,South,Technology,Phones,995.1300000000001,7,98.07000000000001,0.6000000000000001
+2017,4,South,"Office Supplies",Appliances,48.879999999999995,6,7.08,0.4
+2017,4,South,Furniture,Chairs,218.35,3,-19.1,0.2
+2017,1,Central,"Office Supplies",Storage,944.5,18,-51.96000000000001,0.6000000000000001
+2017,4,West,"Office Supplies",Fasteners,12.71,6,4.24,0
+2016,6,South,Technology,Accessories,548.62,14,212.31,0.2
+2017,5,Central,"Office Supplies",Supplies,22.34,3,2.51,0.2
+2017,3,South,Technology,Copiers,2999.95,5,1439.97,0
+2017,3,Central,Technology,Machines,209.98,2,8.99,0.3
+2017,3,Central,Technology,Copiers,3359.94,7,905.98,0.4
+2017,2,East,"Office Supplies",Supplies,25.02,3,6.5,0
+2017,2,East,"Office Supplies",Art,10.71,3,2.78,0
+2016,9,South,Furniture,Furnishings,72.96,7,24.04,0.2
+2017,8,West,Technology,Accessories,2603.95,22,627.38,0
+2017,6,South,"Office Supplies",Labels,13.87,6,4.68,0.2
+2017,7,West,"Office Supplies",Envelopes,57.9,5,28.95,0
+2017,7,West,Furniture,Bookcases,1310.1200000000001,7,236.23999999999998,0.15
+2016,12,West,"Office Supplies",Labels,36.09,11,15.04,0.2
+2017,10,Central,"Office Supplies",Envelopes,25.75,5,8.76,0.4
+2016,11,East,"Office Supplies",Envelopes,40.75,3,15.28,0.2
+2017,12,Central,"Office Supplies",Labels,61.06,2,28.08,0
+2017,6,East,Furniture,Bookcases,1039.6,10,180.25,0.2
+2017,6,East,"Office Supplies",Supplies,59.09,8,16.2,0
+2017,3,West,Technology,Machines,532.72,2,53.27,0.2
+2016,1,West,"Office Supplies",Labels,91.06,17,43.91,0
+2016,2,South,Furniture,Chairs,866.4,4,225.26,0
+2017,10,West,"Office Supplies",Supplies,39.07,6,4.39,0.2
+2017,9,West,"Office Supplies",Fasteners,52.9,12,25.57,0
+2016,9,South,"Office Supplies",Appliances,396.61,11,43.52,0.4
+2016,7,South,"Office Supplies",Labels,6.26,3,2.03,0.2
+2017,3,South,"Office Supplies",Storage,392.7,4,26.71,0
+2017,1,West,"Office Supplies",Envelopes,9.78,1,4.89,0
+2016,11,East,Furniture,Tables,313.17,2,-120.05,0.4
+2017,7,East,Furniture,Bookcases,87.21,3,-45.34,0.5
+2017,5,Central,"Office Supplies",Labels,13.21,4,4.29,0.2
+2017,3,South,"Office Supplies",Envelopes,42.68,4,19.63,0
+2017,3,South,Technology,Accessories,353.22,6,146.74,0
+2016,3,West,"Office Supplies",Envelopes,30.56,4,14.97,0
+2017,2,East,Furniture,Bookcases,240.78,1,30.09,0.2
+2016,10,South,"Office Supplies",Storage,499.39000000000004,14,-60.879999999999995,0.4
+2017,4,West,Technology,Phones,552,10,34.5,0.2
+2016,7,South,Furniture,Furnishings,237.33,7,91.6,0
+2016,7,South,Furniture,Bookcases,504.9,5,126.22,0
+2016,8,South,Technology,Accessories,71.98,2,15.11,0
+2017,7,South,Furniture,Chairs,676.4300000000001,8,51.230000000000004,0.6000000000000001
+2016,12,East,Furniture,Furnishings,1381.9199999999998,35,283.16,0.2
+2017,9,West,Technology,Machines,506.28,3,177.19,0.2
+2016,2,West,Furniture,Furnishings,14.36,2,3.95,0.2
+2017,5,West,Technology,Machines,343.2,1,38.61,0.2
+2017,8,East,"Office Supplies",Labels,58.7,16,23.1,0.4
+2017,9,East,"Office Supplies",Fasteners,19.18,8,8.74,0
+2016,3,East,Furniture,Chairs,1069.5700000000002,13,137.86,0.4
+2017,3,South,"Office Supplies",Fasteners,3.76,2,1.31,0
+2016,4,South,Furniture,Bookcases,354.9,5,88.72,0
+2016,8,Central,"Office Supplies",Envelopes,81.54,3,38.32,0
+2017,4,Central,Technology,Phones,383.84,4,47.98,0.2
+2016,10,Central,"Office Supplies",Fasteners,25.24,4,7.89,0.2
+2016,10,Central,Furniture,Chairs,425.65000000000003,4,66.6,0.3
+2016,10,Central,"Office Supplies",Storage,386.28000000000003,12,16.310000000000002,0
+2017,11,East,"Office Supplies",Supplies,384.59,2,-81.72,0.2
+2016,7,West,Technology,Accessories,818.37,6,222.54000000000002,0
+2016,8,West,Furniture,Furnishings,457.39,10,69.5,0.2
+2017,10,East,Furniture,Chairs,367.14,4,5.68,0.2
+2017,9,Central,Furniture,Furnishings,264.88,12,-79.46000000000001,1.2
+2016,10,East,"Office Supplies",Labels,29.82,7,13.17,0.2
+2017,5,South,Furniture,Furnishings,8.01,3,3.04,0
+2017,8,South,"Office Supplies",Binders,2208.44,23,-981.01,1.4
+2016,3,East,"Office Supplies",Fasteners,5.98,2,-1.34,0.2
+2016,10,Central,"Office Supplies",Supplies,21.96,2,6.14,0
+2017,6,South,Technology,Accessories,316.39,3,-6.709999999999999,0.4
+2017,6,South,Furniture,Bookcases,319.28,4,-3.88,0.4
+2017,6,East,Technology,Machines,3483.16,11,1704.38,0
+2017,3,West,"Office Supplies",Labels,11.52,4,5.64,0
+2017,1,Central,Furniture,Chairs,613.4100000000001,7,46.010000000000005,0.3
+2016,7,East,"Office Supplies",Labels,40.61,3,17.31,0.2
+2016,12,East,Technology,Copiers,2479.94,6,989.97,0.2
+2016,7,West,"Office Supplies",Envelopes,419.9,5,197.35,0
+2017,3,West,Furniture,Chairs,170.35,3,-17.03,0.2
+2016,8,West,Technology,Accessories,434.94,6,178.16,0
+2017,7,South,Furniture,Bookcases,302.94,3,69.67,0
+2017,7,South,"Office Supplies",Binders,14.94,3,7.17,0
+2017,7,South,"Office Supplies",Supplies,231.72,2,11.58,0
+2016,5,West,"Office Supplies",Fasteners,5.94,3,0,0
+2017,1,Central,"Office Supplies",Supplies,4195.7300000000005,9,86.05,0.2
+2017,1,Central,Furniture,Bookcases,212.94,3,53.23,0
+2017,5,South,"Office Supplies",Labels,126.72,7,41.17,0.4
+2017,9,Central,Technology,Copiers,319.98,2,107.99,0.2
+2017,2,West,"Office Supplies",Envelopes,10.64,5,3.85,0.2
+2017,2,West,Furniture,Tables,386.91,9,-185.71,0.5
+2017,10,South,"Office Supplies",Envelopes,251.58,7,113.21,0
+2017,5,East,"Office Supplies",Supplies,17,2,4.42,0
+2016,4,South,"Office Supplies",Fasteners,30,6,14.4,0
+2016,9,Central,Technology,Machines,1362.9,3,-19.47,0.3
+2017,4,Central,Furniture,Chairs,317.05,3,-18.11,0.3
+2017,9,South,"Office Supplies",Art,282.15999999999997,28,72.71999999999998,0.4
+2017,7,East,"Office Supplies",Supplies,46.93,5,5.38,0.4
+2016,12,West,Technology,Machines,281.53000000000003,3,-383.2,0.8999999999999999
+2017,9,East,Technology,Machines,733.75,7,38.75999999999999,1.4
+2016,10,Central,Technology,Copiers,17499.95,5,8399.97,0
+2017,7,East,"Office Supplies",Appliances,17.48,4,4.54,0
+2016,9,South,"Office Supplies",Fasteners,11.34,3,5.21,0
+2016,1,Central,Furniture,Bookcases,1565.88,6,407.12,0
+2016,1,Central,"Office Supplies",Binders,119.64999999999999,12,52.510000000000005,0.8
+2017,4,West,Furniture,Chairs,655.05,9,-57.31,0.4
+2016,12,Central,"Office Supplies",Labels,57.31,12,18.62,0.4
+2017,9,South,Technology,Phones,1139.89,20,223.66999999999996,0.4
+2016,7,South,"Office Supplies",Envelopes,10.2,5,4.79,0
+2017,5,South,"Office Supplies",Supplies,29.080000000000002,4,1.18,0.2
+2017,1,East,"Office Supplies",Labels,5.22,2,2.4,0
+2017,7,East,Technology,Copiers,599.97,5,69.99,0.4
+2017,2,East,"Office Supplies",Appliances,32.67,3,8.49,0
+2016,7,Central,"Office Supplies",Supplies,13.34,2,1,0.2
+2016,5,West,"Office Supplies",Envelopes,54.9,5,26.9,0
+2017,3,East,Furniture,Tables,154.76,3,-46.42,0.4
+2016,3,West,"Office Supplies",Storage,192.61,5,7.41,0.2
+2017,4,East,Furniture,Chairs,908.82,9,227.2,0
+2017,8,Central,Furniture,Chairs,74.59,4,-2.13,0.3
+2016,11,West,Furniture,Tables,674.35,3,-8.42,0.2
+2016,10,South,"Office Supplies",Art,30.97,8,5.03,0.2
+2016,2,South,"Office Supplies",Binders,96.74,18,-1.1799999999999993,1.4
+2017,10,West,Technology,Machines,969.1400000000001,16,-447.68,0.8999999999999999
+2017,1,East,"Office Supplies",Binders,274.49,3,-228.74,0.7
+2016,7,West,"Office Supplies",Appliances,867.26,9,228.94,0
+2017,2,East,Technology,Accessories,1319.8,5,214.46,0.2
+2017,3,East,"Office Supplies",Appliances,465.16,2,120.94,0
+2016,7,East,Technology,Machines,341.99,3,-319.19,0.7
+2016,5,Central,Furniture,Furnishings,159.75,19,-25.370000000000005,2.4
+2016,5,Central,"Office Supplies",Storage,2235.37,25,211.37,0.8
+2017,8,South,"Office Supplies",Storage,67.13,4,-0.83,0.2
+2016,1,South,"Office Supplies",Paper,89.56,2,32.46,0.2
+2017,6,East,"Office Supplies",Fasteners,14.13,3,0.7,0
+2017,12,South,Furniture,Tables,1656.8200000000002,12,-669.3199999999999,0.8500000000000001
+2017,1,West,"Office Supplies",Fasteners,19.73,9,9.23,0
+2016,9,Central,"Office Supplies",Supplies,16.9,2,5.07,0
+2017,8,East,"Office Supplies",Supplies,70.12,4,21.03,0
+2017,2,Central,"Office Supplies",Paper,490.15999999999997,8,172.37,0.6000000000000001
+2017,12,South,"Office Supplies",Labels,5.76,2,2.64,0
+2017,12,South,Technology,Copiers,1399.98,2,629.99,0
+2017,2,South,Furniture,Chairs,196.78,2,-22.13,0.2
+2016,1,West,Furniture,Bookcases,48.58,1,7.77,0
+2017,3,East,"Office Supplies",Envelopes,113.82,13,52.199999999999996,0.2
+2016,10,East,Technology,Copiers,5399.91,9,2591.95,0
+2017,7,South,Furniture,Tables,872.94,3,157.12,0
+2017,7,South,"Office Supplies",Paper,12.96,2,6.22,0
+2017,12,East,Technology,Copiers,1199.98,2,467.99,0
+2016,8,Central,Technology,Phones,209.97,3,58.79,0
+2016,8,Central,Furniture,Tables,447.84,4,98.52,0
+2016,8,Central,"Office Supplies",Art,8.64,3,2.5,0
+2017,4,West,"Office Supplies",Appliances,40.74,3,12.22,0
+2016,4,West,"Office Supplies",Envelopes,78.09,6,38.849999999999994,0
+2016,4,South,"Office Supplies",Appliances,203.92,4,55.05,0
+2016,5,Central,"Office Supplies",Fasteners,7.89,3,2.46,0.2
+2017,3,East,Furniture,Chairs,479.6,5,62.69,0.2
+2016,2,East,Furniture,Tables,550.43,3,-47.17,0.3
+2017,7,Central,Furniture,Tables,422.51,10,-25.57,0.6
+2016,2,Central,Furniture,Furnishings,89.97,4,-84.35,1.2
+2016,5,Central,"Office Supplies",Labels,5.04,2,1.76,0.2
+2016,10,West,"Office Supplies",Labels,6.16,2,2.95,0
+2016,6,East,Furniture,Tables,714.03,5,-331.56,0.8
+2017,8,South,"Office Supplies",Fasteners,24.32,5,9.12,0.2
+2016,12,West,Furniture,Bookcases,205.66,2,-12.09,0.15
+2017,12,Central,"Office Supplies",Supplies,44.68,7,5.02,0.2
+2016,10,West,Furniture,Bookcases,211.54,5,-169.56,0.85
+2017,1,Central,"Office Supplies",Fasteners,17.64,7,5.01,0.2
+2016,8,Central,"Office Supplies",Labels,62.790000000000006,7,29.25,0
+2017,5,East,"Office Supplies",Fasteners,11.29,3,4.279999999999999,0.2
+2016,1,Central,Furniture,Furnishings,23.07,3,-10.96,0.6
+2017,1,Central,"Office Supplies",Appliances,20.65,4,-52.4,1.6
+2016,3,West,Technology,Machines,3357.6,3,377.73,0.2
+2017,2,Central,Furniture,Bookcases,89.06,1,-17.02,0.32
+2016,8,South,Furniture,Tables,562.29,7,-255.58,0.45
+2016,2,West,"Office Supplies",Labels,14.73,3,7.21,0
+2016,2,West,Furniture,Tables,557.72,4,6.97,0.2
+2016,2,East,Furniture,Chairs,554.6,5,76.39,0.1
+2016,7,West,Furniture,Tables,863.12,7,-32.36,0.2
+2016,2,South,"Office Supplies",Art,264.18,7,68.68,0
+2016,9,West,Technology,Copiers,4279.91,10,1556.96,0.4
+2016,4,East,Technology,Accessories,89.97,3,37.78,0
+2016,6,South,"Office Supplies",Art,35.97,3,9.71,0
+2016,6,South,Furniture,Bookcases,1266.86,7,291.37,0
+2017,5,South,Furniture,Tables,933.26,4,-458.14,0.45
+2016,6,Central,"Office Supplies",Storage,238.57,13,51.22,0.2
+2016,5,South,"Office Supplies",Envelopes,26.55,9,12.74,0
+2016,7,West,"Office Supplies",Art,83.15,11,24.02,0
+2017,1,South,Furniture,Furnishings,62.72,4,24.46,0
+2017,6,West,"Office Supplies",Appliances,61.44,3,16.58,0
+2017,5,East,Furniture,Tables,373.47,5,-112.04,0.4
+2017,3,Central,Furniture,Tables,933.4,4,-173.34,0.3
+2017,10,East,"Office Supplies",Fasteners,17.9,5,8.77,0
+2017,2,East,"Office Supplies",Labels,20.7,2,9.93,0
+2016,2,South,Technology,Machines,8749.95,5,2799.98,0
+2017,7,West,"Office Supplies",Fasteners,5.94,3,0.11,0
+2016,12,South,"Office Supplies",Labels,2.61,1,1.2,0
+2017,7,West,"Office Supplies",Appliances,168.1,5,43.7,0
+2016,1,Central,Technology,Accessories,195.68,5,-11.469999999999999,0.4
+2016,1,Central,Technology,Phones,1620.92,9,157.56,0.4
+2017,8,East,Technology,Accessories,1143.0600000000002,16,217.60999999999999,0.2
+2017,8,East,Furniture,Bookcases,130.98,2,-89.06,0.5
+2017,11,South,Furniture,Bookcases,723.92,5,-81.44,0.2
+2017,2,Central,"Office Supplies",Fasteners,18.36,2,6.19,0.2
+2017,2,Central,Furniture,Chairs,600.55,3,-8.57,0.3
+2017,2,Central,"Office Supplies",Storage,50.35,3,-8.18,0.2
+2016,6,West,"Office Supplies",Supplies,293.1,8,27.53,0
+2016,6,West,"Office Supplies",Fasteners,17.9,5,8.95,0
+2017,2,West,"Office Supplies",Binders,30.96,2,10.06,0.2
+2017,2,West,Technology,Machines,239.98,2,38.99,0.2
+2016,1,South,"Office Supplies",Envelopes,125.36,8,58.91,0
+2016,3,Central,"Office Supplies",Appliances,209.47,6,42.03,0.9
+2017,11,South,Technology,Copiers,959.98,2,311.99,0.2
+2016,11,West,Technology,Machines,866.39,5,-174.76,0.8999999999999999
+2016,8,Central,"Office Supplies",Appliances,58.92,1,-153.2,0.8
+2016,8,West,"Office Supplies",Storage,17.94,3,3.04,0
+2016,7,East,Technology,Accessories,30.84,3,6.16,0
+2016,1,Central,Furniture,Tables,2218.95,10,-188.02000000000004,0.5
+2016,3,Central,Furniture,Furnishings,175.78,7,-190.47,0.6
+2017,10,South,Technology,Accessories,18.52,2,4.4,0.2
+2017,9,West,"Office Supplies",Supplies,29.26,4,8.33,0
+2016,1,East,"Office Supplies",Storage,1992.97,20,406.71,0
+2016,8,East,Furniture,Furnishings,19.31,2,3.13,0.2
+2016,6,West,Technology,Machines,4476.8,4,503.64,0.2
+2017,12,Central,"Office Supplies",Envelopes,7.28,1,3.49,0
+2017,2,East,Furniture,Furnishings,177.7,4,4.6,0.4
+2017,5,East,Furniture,Bookcases,115.96,4,-64.93,0.5
+2017,9,South,"Office Supplies",Fasteners,14.2,4,6.67,0
+2017,2,East,Furniture,Tables,455.97,5,-106.39,0.4
+2017,2,East,Furniture,Chairs,899.43,5,-12.84,0.3
+2017,3,West,"Office Supplies",Fasteners,13.02,7,0.39,0
+2016,5,Central,"Office Supplies",Envelopes,7.07,2,2.38,0.2
+2017,1,East,"Office Supplies",Envelopes,2.04,1,0.95,0
+2016,8,South,"Office Supplies",Art,197.05,7,59.11,0
+2016,10,East,"Office Supplies",Fasteners,40.67,7,12.6,0
+2017,1,West,"Office Supplies",Appliances,25.86,3,6.72,0
+2016,5,West,"Office Supplies",Labels,27.72,9,13.3,0
+2017,6,Central,Furniture,Bookcases,409.99,3,-96.47,0.32
+2016,11,West,Furniture,Bookcases,3406.66,8,160.31,0.15
+2016,2,East,Technology,Accessories,89.97,3,39.58,0
+2017,1,Central,"Office Supplies",Envelopes,268.57,4,90.64,0.2
+2017,3,South,Furniture,Tables,292.1,2,58.42,0
+2016,6,South,Technology,Phones,135.95,1,39.42,0
+2016,9,East,"Office Supplies",Envelopes,63.96,2,19.99,0.2
+2016,4,East,"Office Supplies",Appliances,33.52,3,2.51,0.2
+2016,12,West,"Office Supplies",Fasteners,13.86,7,0,0
